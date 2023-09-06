@@ -1,0 +1,2343 @@
+2023-08-24 20:56:34,635 - INFO - Database connection initialized.
+2023-08-24 20:56:34,635 - INFO - Shopping cart initialized.
+2023-08-24 20:56:34,636 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 20:56:34,638 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 20:56:34,639 - INFO - Database connection initialized.
+2023-08-24 20:56:34,639 - INFO - Shopping cart initialized.
+2023-08-24 20:56:34,640 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 20:56:34,640 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 20:56:34,642 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 20:56:34,642 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 20:56:34,644 - INFO - Database connection initialized.
+2023-08-24 20:56:34,644 - INFO - Shopping cart initialized.
+2023-08-24 20:56:34,646 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 20:56:34,646 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 20:56:34,648 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 20:56:34,648 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 20:56:34,649 - INFO - Database connection initialized.
+2023-08-24 20:56:34,649 - INFO - Shopping cart initialized.
+2023-08-24 20:56:34,650 - INFO - Database connection initialized.
+2023-08-24 20:56:34,650 - INFO - Shopping cart initialized.
+2023-08-24 20:56:34,652 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 20:56:34,652 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 20:56:34,652 - INFO - Item apple removed from the cart.
+2023-08-24 20:56:34,652 - INFO - Item apple removed from the database.
+2023-08-24 20:56:34,654 - INFO - Database connection initialized.
+2023-08-24 20:56:34,674 - INFO - Database connection initialized.
+2023-08-24 20:56:34,676 - INFO - Database connection initialized.
+2023-08-24 20:56:34,676 - INFO - Database connection initialized.
+2023-08-24 20:56:34,686 - INFO - Database connection initialized.
+2023-08-24 20:56:34,688 - INFO - Database connection initialized.
+2023-08-24 20:56:34,689 - INFO - Database connection initialized.
+2023-08-24 20:56:34,690 - INFO - Database connection initialized.
+2023-08-24 20:56:34,697 - INFO - Database connection initialized.
+2023-08-24 20:56:34,698 - INFO - Database connection initialized.
+2023-08-24 20:56:34,699 - INFO - Database connection initialized.
+2023-08-24 20:56:34,700 - INFO - Database connection initialized.
+2023-08-24 20:56:34,701 - INFO - Database connection initialized.
+2023-08-24 21:05:27,281 - INFO - Database connection initialized.
+2023-08-24 21:05:27,282 - INFO - Shopping cart initialized.
+2023-08-24 21:05:27,283 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 21:05:27,283 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 21:05:27,284 - INFO - Database connection initialized.
+2023-08-24 21:05:27,284 - INFO - Shopping cart initialized.
+2023-08-24 21:05:27,286 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 21:05:27,286 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 21:05:27,288 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 21:05:27,288 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 21:05:27,289 - INFO - Database connection initialized.
+2023-08-24 21:05:27,289 - INFO - Shopping cart initialized.
+2023-08-24 21:05:27,290 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 21:05:27,290 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 21:05:27,292 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 21:05:27,292 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 21:05:27,292 - INFO - Database connection initialized.
+2023-08-24 21:05:27,293 - INFO - Shopping cart initialized.
+2023-08-24 21:05:27,293 - INFO - Database connection initialized.
+2023-08-24 21:05:27,293 - INFO - Shopping cart initialized.
+2023-08-24 21:05:27,295 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:05:27,295 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:05:27,295 - INFO - Item apple removed from the cart.
+2023-08-24 21:05:27,295 - INFO - Item apple removed from the database.
+2023-08-24 21:05:27,297 - INFO - Database connection initialized.
+2023-08-24 21:05:27,300 - INFO - Database connection initialized.
+2023-08-24 21:05:27,301 - INFO - Database connection initialized.
+2023-08-24 21:05:27,302 - INFO - Database connection initialized.
+2023-08-24 21:05:27,304 - INFO - Database connection initialized.
+2023-08-24 21:05:27,305 - INFO - Database connection initialized.
+2023-08-24 21:05:27,306 - INFO - Database connection initialized.
+2023-08-24 21:08:56,171 - INFO - Database connection initialized.
+2023-08-24 21:08:56,171 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,173 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:08:56,173 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:08:56,174 - INFO - Database connection initialized.
+2023-08-24 21:08:56,174 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,176 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 21:08:56,176 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 21:08:56,178 - INFO - Item banana with ID 8 and price 0.79 added to the database.
+2023-08-24 21:08:56,178 - INFO - Item banana with ID 8 and price 0.79 $ added to the cart.
+2023-08-24 21:08:56,179 - INFO - Database connection initialized.
+2023-08-24 21:08:56,179 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,181 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 21:08:56,181 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 21:08:56,183 - INFO - Item banana with ID 10 and price 0.79 added to the database.
+2023-08-24 21:08:56,183 - INFO - Item banana with ID 10 and price 0.79 $ added to the cart.
+2023-08-24 21:08:56,184 - INFO - Database connection initialized.
+2023-08-24 21:08:56,184 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,184 - INFO - Database connection initialized.
+2023-08-24 21:08:56,184 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,186 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 21:08:56,186 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 21:08:56,186 - INFO - Item apple removed from the cart.
+2023-08-24 21:08:56,186 - INFO - Item apple removed from the database.
+2023-08-24 21:08:56,188 - INFO - Database connection initialized.
+2023-08-24 21:08:56,189 - INFO - Database connection initialized.
+2023-08-24 21:08:56,191 - INFO - Database connection initialized.
+2023-08-24 21:08:56,192 - INFO - Database connection initialized.
+2023-08-24 21:08:56,194 - INFO - Database connection initialized.
+2023-08-24 21:08:56,195 - INFO - Database connection initialized.
+2023-08-24 21:08:56,196 - INFO - Database connection initialized.
+2023-08-24 21:08:56,214 - INFO - Database connection initialized.
+2023-08-24 21:08:56,214 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,507 - INFO - Table refreshed with updated items.
+2023-08-24 21:08:56,527 - INFO - Database connection initialized.
+2023-08-24 21:08:56,527 - INFO - Shopping cart initialized.
+2023-08-24 21:08:56,529 - INFO - Table refreshed with updated items.
+2023-08-24 21:15:07,462 - INFO - Database connection initialized.
+2023-08-24 21:15:07,462 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,464 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 21:15:07,464 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 21:15:07,465 - INFO - Database connection initialized.
+2023-08-24 21:15:07,465 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,467 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 21:15:07,467 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 21:15:07,469 - INFO - Item banana with ID 13 and price 0.79 added to the database.
+2023-08-24 21:15:07,469 - INFO - Item banana with ID 13 and price 0.79 $ added to the cart.
+2023-08-24 21:15:07,470 - INFO - Database connection initialized.
+2023-08-24 21:15:07,470 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,472 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 21:15:07,472 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 21:15:07,474 - INFO - Item banana with ID 15 and price 0.79 added to the database.
+2023-08-24 21:15:07,474 - INFO - Item banana with ID 15 and price 0.79 $ added to the cart.
+2023-08-24 21:15:07,475 - INFO - Database connection initialized.
+2023-08-24 21:15:07,475 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,475 - INFO - Database connection initialized.
+2023-08-24 21:15:07,475 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,478 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 21:15:07,478 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 21:15:07,478 - INFO - Item apple removed from the cart.
+2023-08-24 21:15:07,478 - INFO - Item apple removed from the database.
+2023-08-24 21:15:07,480 - INFO - Database connection initialized.
+2023-08-24 21:15:07,482 - INFO - Database connection initialized.
+2023-08-24 21:15:07,483 - INFO - Database connection initialized.
+2023-08-24 21:15:07,484 - INFO - Database connection initialized.
+2023-08-24 21:15:07,485 - INFO - Database connection initialized.
+2023-08-24 21:15:07,486 - INFO - Database connection initialized.
+2023-08-24 21:15:07,487 - INFO - Database connection initialized.
+2023-08-24 21:15:07,506 - INFO - Database connection initialized.
+2023-08-24 21:15:07,506 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,805 - INFO - Table refreshed with updated items.
+2023-08-24 21:15:07,827 - INFO - Database connection initialized.
+2023-08-24 21:15:07,827 - INFO - Shopping cart initialized.
+2023-08-24 21:15:07,829 - INFO - Table refreshed with updated items.
+2023-08-24 21:20:00,591 - INFO - Database connection initialized.
+2023-08-24 21:20:00,591 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,592 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 21:20:00,593 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 21:20:00,594 - INFO - Database connection initialized.
+2023-08-24 21:20:00,594 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,595 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 21:20:00,595 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 21:20:00,597 - INFO - Item banana with ID 18 and price 0.79 added to the database.
+2023-08-24 21:20:00,598 - INFO - Item banana with ID 18 and price 0.79 $ added to the cart.
+2023-08-24 21:20:00,599 - INFO - Database connection initialized.
+2023-08-24 21:20:00,599 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,600 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 21:20:00,600 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 21:20:00,602 - INFO - Item banana with ID 20 and price 0.79 added to the database.
+2023-08-24 21:20:00,602 - INFO - Item banana with ID 20 and price 0.79 $ added to the cart.
+2023-08-24 21:20:00,603 - INFO - Database connection initialized.
+2023-08-24 21:20:00,603 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,604 - INFO - Database connection initialized.
+2023-08-24 21:20:00,604 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,606 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 21:20:00,606 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 21:20:00,606 - INFO - Item apple removed from the cart.
+2023-08-24 21:20:00,606 - INFO - Item apple removed from the database.
+2023-08-24 21:20:00,609 - INFO - Database connection initialized.
+2023-08-24 21:20:00,611 - INFO - Database connection initialized.
+2023-08-24 21:20:00,612 - INFO - Database connection initialized.
+2023-08-24 21:20:00,613 - INFO - Database connection initialized.
+2023-08-24 21:20:00,614 - INFO - Database connection initialized.
+2023-08-24 21:20:00,615 - INFO - Database connection initialized.
+2023-08-24 21:20:00,616 - INFO - Database connection initialized.
+2023-08-24 21:20:00,637 - INFO - Database connection initialized.
+2023-08-24 21:20:00,638 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,948 - INFO - Table refreshed with updated items.
+2023-08-24 21:20:00,969 - INFO - Database connection initialized.
+2023-08-24 21:20:00,969 - INFO - Shopping cart initialized.
+2023-08-24 21:20:00,972 - INFO - Table refreshed with updated items.
+2023-08-24 21:20:20,019 - INFO - Database connection initialized.
+2023-08-24 21:20:20,019 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,021 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 21:20:20,021 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 21:20:20,022 - INFO - Database connection initialized.
+2023-08-24 21:20:20,022 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,025 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 21:20:20,025 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 21:20:20,026 - INFO - Item banana with ID 23 and price 0.79 added to the database.
+2023-08-24 21:20:20,026 - INFO - Item banana with ID 23 and price 0.79 $ added to the cart.
+2023-08-24 21:20:20,029 - INFO - Database connection initialized.
+2023-08-24 21:20:20,029 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,031 - INFO - Item apple with ID 24 and price 0.99 added to the database.
+2023-08-24 21:20:20,031 - INFO - Item apple with ID 24 and price 0.99 $ added to the cart.
+2023-08-24 21:20:20,032 - INFO - Item banana with ID 25 and price 0.79 added to the database.
+2023-08-24 21:20:20,032 - INFO - Item banana with ID 25 and price 0.79 $ added to the cart.
+2023-08-24 21:20:20,033 - INFO - Database connection initialized.
+2023-08-24 21:20:20,033 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,034 - INFO - Database connection initialized.
+2023-08-24 21:20:20,034 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,036 - INFO - Item apple with ID 26 and price 0.99 added to the database.
+2023-08-24 21:20:20,036 - INFO - Item apple with ID 26 and price 0.99 $ added to the cart.
+2023-08-24 21:20:20,036 - INFO - Item apple removed from the cart.
+2023-08-24 21:20:20,036 - INFO - Item apple removed from the database.
+2023-08-24 21:20:20,038 - INFO - Database connection initialized.
+2023-08-24 21:20:20,040 - INFO - Database connection initialized.
+2023-08-24 21:20:20,042 - INFO - Database connection initialized.
+2023-08-24 21:20:20,043 - INFO - Database connection initialized.
+2023-08-24 21:20:20,044 - INFO - Database connection initialized.
+2023-08-24 21:20:20,045 - INFO - Database connection initialized.
+2023-08-24 21:20:20,046 - INFO - Database connection initialized.
+2023-08-24 21:20:20,066 - INFO - Database connection initialized.
+2023-08-24 21:20:20,066 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,374 - INFO - Table refreshed with updated items.
+2023-08-24 21:20:20,395 - INFO - Database connection initialized.
+2023-08-24 21:20:20,395 - INFO - Shopping cart initialized.
+2023-08-24 21:20:20,397 - INFO - Table refreshed with updated items.
+2023-08-24 21:29:30,236 - INFO - Database connection initialized.
+2023-08-24 21:29:30,236 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,238 - INFO - Item apple with ID 26 and price 0.99 added to the database.
+2023-08-24 21:29:30,238 - INFO - Item apple with ID 26 and price 0.99 $ added to the cart.
+2023-08-24 21:29:30,240 - INFO - Database connection initialized.
+2023-08-24 21:29:30,240 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,242 - INFO - Item apple with ID 27 and price 0.99 added to the database.
+2023-08-24 21:29:30,242 - INFO - Item apple with ID 27 and price 0.99 $ added to the cart.
+2023-08-24 21:29:30,244 - INFO - Item banana with ID 28 and price 0.79 added to the database.
+2023-08-24 21:29:30,244 - INFO - Item banana with ID 28 and price 0.79 $ added to the cart.
+2023-08-24 21:29:30,245 - INFO - Database connection initialized.
+2023-08-24 21:29:30,245 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,247 - INFO - Item apple with ID 29 and price 0.99 added to the database.
+2023-08-24 21:29:30,247 - INFO - Item apple with ID 29 and price 0.99 $ added to the cart.
+2023-08-24 21:29:30,249 - INFO - Item banana with ID 30 and price 0.79 added to the database.
+2023-08-24 21:29:30,249 - INFO - Item banana with ID 30 and price 0.79 $ added to the cart.
+2023-08-24 21:29:30,250 - INFO - Database connection initialized.
+2023-08-24 21:29:30,250 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,250 - INFO - Database connection initialized.
+2023-08-24 21:29:30,250 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,252 - INFO - Item apple with ID 31 and price 0.99 added to the database.
+2023-08-24 21:29:30,252 - INFO - Item apple with ID 31 and price 0.99 $ added to the cart.
+2023-08-24 21:29:30,252 - INFO - Item apple removed from the cart.
+2023-08-24 21:29:30,252 - INFO - Item apple removed from the database.
+2023-08-24 21:29:30,255 - INFO - Database connection initialized.
+2023-08-24 21:29:30,256 - INFO - Database connection initialized.
+2023-08-24 21:29:30,257 - INFO - Database connection initialized.
+2023-08-24 21:29:30,258 - INFO - Database connection initialized.
+2023-08-24 21:29:30,260 - INFO - Database connection initialized.
+2023-08-24 21:29:30,261 - INFO - Database connection initialized.
+2023-08-24 21:29:30,262 - INFO - Database connection initialized.
+2023-08-24 21:29:30,263 - INFO - Database connection initialized.
+2023-08-24 21:29:30,265 - INFO - Item apple with ID 31 and price 0.99 added to the database.
+2023-08-24 21:29:30,266 - INFO - Database connection initialized.
+2023-08-24 21:29:30,267 - INFO - Database connection initialized.
+2023-08-24 21:29:30,268 - INFO - Database connection initialized.
+2023-08-24 21:29:30,269 - INFO - Database connection initialized.
+2023-08-24 21:29:30,270 - INFO - Database connection initialized.
+2023-08-24 21:29:30,283 - INFO - Database connection initialized.
+2023-08-24 21:29:30,283 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,586 - INFO - Table refreshed with updated items.
+2023-08-24 21:29:30,608 - INFO - Database connection initialized.
+2023-08-24 21:29:30,609 - INFO - Shopping cart initialized.
+2023-08-24 21:29:30,611 - INFO - Table refreshed with updated items.
+2023-08-24 21:40:22,678 - INFO - Database connection initialized.
+2023-08-24 21:40:22,679 - INFO - Shopping cart initialized.
+2023-08-24 21:40:22,680 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 21:40:22,680 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 21:40:22,681 - INFO - Database connection initialized.
+2023-08-24 21:40:22,681 - INFO - Shopping cart initialized.
+2023-08-24 21:40:22,683 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 21:40:22,683 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 21:40:22,685 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 21:40:22,685 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 21:40:22,686 - INFO - Database connection initialized.
+2023-08-24 21:40:22,686 - INFO - Shopping cart initialized.
+2023-08-24 21:40:22,688 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 21:40:22,688 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 21:40:22,690 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 21:40:22,690 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 21:40:22,692 - INFO - Database connection initialized.
+2023-08-24 21:40:22,692 - INFO - Shopping cart initialized.
+2023-08-24 21:40:22,692 - INFO - Database connection initialized.
+2023-08-24 21:40:22,692 - INFO - Shopping cart initialized.
+2023-08-24 21:40:22,694 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:40:22,694 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:40:22,694 - INFO - Item apple removed from the cart.
+2023-08-24 21:40:22,695 - INFO - Item apple removed from the database.
+2023-08-24 21:40:22,697 - INFO - Database connection initialized.
+2023-08-24 21:40:22,699 - INFO - Database connection initialized.
+2023-08-24 21:40:22,700 - INFO - Database connection initialized.
+2023-08-24 21:40:22,701 - INFO - Database connection initialized.
+2023-08-24 21:40:22,702 - INFO - Database connection initialized.
+2023-08-24 21:40:22,703 - INFO - Database connection initialized.
+2023-08-24 21:40:22,704 - INFO - Database connection initialized.
+2023-08-24 21:40:22,706 - INFO - Database connection initialized.
+2023-08-24 21:40:22,708 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:40:22,710 - INFO - Database connection initialized.
+2023-08-24 21:40:22,711 - INFO - Database connection initialized.
+2023-08-24 21:40:22,712 - INFO - Database connection initialized.
+2023-08-24 21:40:22,716 - INFO - Database connection initialized.
+2023-08-24 21:40:22,716 - INFO - Item apple removed from the database.
+2023-08-24 21:40:22,719 - INFO - Database connection initialized.
+2023-08-24 21:40:22,721 - INFO - Database connection initialized.
+2023-08-24 21:40:22,741 - INFO - Database connection initialized.
+2023-08-24 21:40:22,741 - INFO - Shopping cart initialized.
+2023-08-24 21:40:23,045 - INFO - Table refreshed with updated items.
+2023-08-24 21:40:23,067 - INFO - Database connection initialized.
+2023-08-24 21:40:23,068 - INFO - Shopping cart initialized.
+2023-08-24 21:40:23,070 - INFO - Table refreshed with updated items.
+2023-08-24 21:52:10,227 - INFO - Database connection initialized.
+2023-08-24 21:52:10,227 - INFO - Shopping cart initialized.
+2023-08-24 21:52:10,229 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 21:52:10,229 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 21:52:10,230 - INFO - Database connection initialized.
+2023-08-24 21:52:10,230 - INFO - Shopping cart initialized.
+2023-08-24 21:52:10,232 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 21:52:10,232 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 21:52:10,234 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 21:52:10,234 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 21:52:10,236 - INFO - Database connection initialized.
+2023-08-24 21:52:10,236 - INFO - Shopping cart initialized.
+2023-08-24 21:52:10,238 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 21:52:10,238 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 21:52:10,240 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 21:52:10,240 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 21:52:10,241 - INFO - Database connection initialized.
+2023-08-24 21:52:10,241 - INFO - Shopping cart initialized.
+2023-08-24 21:52:10,242 - INFO - Database connection initialized.
+2023-08-24 21:52:10,242 - INFO - Shopping cart initialized.
+2023-08-24 21:52:10,244 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:52:10,244 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:52:10,244 - INFO - Item apple removed from the cart.
+2023-08-24 21:52:10,245 - INFO - Item apple removed from the database.
+2023-08-24 21:52:10,248 - INFO - Database connection initialized.
+2023-08-24 21:52:10,250 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:52:10,253 - INFO - Database connection initialized.
+2023-08-24 21:52:10,254 - INFO - Database connection initialized.
+2023-08-24 21:52:10,255 - INFO - Database connection initialized.
+2023-08-24 21:52:10,257 - INFO - Database connection initialized.
+2023-08-24 21:52:10,257 - INFO - Item apple removed from the database.
+2023-08-24 21:52:10,260 - INFO - Database connection initialized.
+2023-08-24 21:52:10,261 - INFO - Database connection initialized.
+2023-08-24 21:52:10,267 - INFO - Database connection initialized.
+2023-08-24 21:52:10,270 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 21:52:10,272 - INFO - Database connection initialized.
+2023-08-24 21:52:10,273 - INFO - Database connection initialized.
+2023-08-24 21:52:10,274 - INFO - Database connection initialized.
+2023-08-24 21:52:10,277 - INFO - Database connection initialized.
+2023-08-24 21:52:10,278 - INFO - Item apple removed from the database.
+2023-08-24 21:52:10,281 - INFO - Database connection initialized.
+2023-08-24 21:52:10,283 - INFO - Database connection initialized.
+2023-08-24 21:52:47,995 - INFO - Database connection initialized.
+2023-08-24 21:52:47,996 - INFO - Shopping cart initialized.
+2023-08-24 21:52:47,997 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 21:52:47,997 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 21:52:47,999 - INFO - Database connection initialized.
+2023-08-24 21:52:47,999 - INFO - Shopping cart initialized.
+2023-08-24 21:52:48,000 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 21:52:48,000 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 21:52:48,002 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 21:52:48,002 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 21:52:48,003 - INFO - Database connection initialized.
+2023-08-24 21:52:48,003 - INFO - Shopping cart initialized.
+2023-08-24 21:52:48,005 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 21:52:48,005 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 21:52:48,006 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 21:52:48,006 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 21:52:48,007 - INFO - Database connection initialized.
+2023-08-24 21:52:48,007 - INFO - Shopping cart initialized.
+2023-08-24 21:52:48,008 - INFO - Database connection initialized.
+2023-08-24 21:52:48,008 - INFO - Shopping cart initialized.
+2023-08-24 21:52:48,009 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:52:48,009 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:52:48,009 - INFO - Item apple removed from the cart.
+2023-08-24 21:52:48,010 - INFO - Item apple removed from the database.
+2023-08-24 21:52:48,012 - INFO - Database connection initialized.
+2023-08-24 21:52:48,014 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:52:48,017 - INFO - Database connection initialized.
+2023-08-24 21:52:48,018 - INFO - Database connection initialized.
+2023-08-24 21:52:48,020 - INFO - Database connection initialized.
+2023-08-24 21:52:48,021 - INFO - Database connection initialized.
+2023-08-24 21:52:48,022 - INFO - Item apple removed from the database.
+2023-08-24 21:52:48,025 - INFO - Database connection initialized.
+2023-08-24 21:52:48,026 - INFO - Database connection initialized.
+2023-08-24 21:52:48,032 - INFO - Database connection initialized.
+2023-08-24 21:52:48,035 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 21:52:48,037 - INFO - Database connection initialized.
+2023-08-24 21:52:48,038 - INFO - Database connection initialized.
+2023-08-24 21:52:48,039 - INFO - Database connection initialized.
+2023-08-24 21:52:48,043 - INFO - Database connection initialized.
+2023-08-24 21:52:48,044 - INFO - Item apple removed from the database.
+2023-08-24 21:52:48,046 - INFO - Database connection initialized.
+2023-08-24 21:52:48,048 - INFO - Database connection initialized.
+2023-08-24 21:58:54,448 - INFO - Database connection initialized.
+2023-08-24 21:58:54,448 - INFO - Shopping cart initialized.
+2023-08-24 21:58:54,449 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 21:58:54,449 - INFO - Item apple with ID 3 and price 0.99 $ added to the cart.
+2023-08-24 21:58:54,450 - INFO - Database connection initialized.
+2023-08-24 21:58:54,450 - INFO - Shopping cart initialized.
+2023-08-24 21:58:54,452 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 21:58:54,452 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 21:58:54,454 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 21:58:54,454 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 21:58:54,455 - INFO - Database connection initialized.
+2023-08-24 21:58:54,456 - INFO - Shopping cart initialized.
+2023-08-24 21:58:54,458 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:58:54,458 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:58:54,459 - INFO - Item banana with ID 7 and price 0.79 added to the database.
+2023-08-24 21:58:54,459 - INFO - Item banana with ID 7 and price 0.79 $ added to the cart.
+2023-08-24 21:58:54,460 - INFO - Database connection initialized.
+2023-08-24 21:58:54,460 - INFO - Shopping cart initialized.
+2023-08-24 21:58:54,461 - INFO - Database connection initialized.
+2023-08-24 21:58:54,461 - INFO - Shopping cart initialized.
+2023-08-24 21:58:54,463 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 21:58:54,463 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 21:58:54,463 - INFO - Item apple removed from the cart.
+2023-08-24 21:58:54,464 - INFO - Item apple removed from the database.
+2023-08-24 21:58:54,466 - INFO - Database connection initialized.
+2023-08-24 21:58:54,468 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 21:58:54,471 - INFO - Database connection initialized.
+2023-08-24 21:58:54,472 - INFO - Database connection initialized.
+2023-08-24 21:58:54,473 - INFO - Database connection initialized.
+2023-08-24 21:58:54,474 - INFO - Database connection initialized.
+2023-08-24 21:58:54,475 - INFO - Item apple removed from the database.
+2023-08-24 21:58:54,478 - INFO - Database connection initialized.
+2023-08-24 21:58:54,479 - INFO - Database connection initialized.
+2023-08-24 21:58:54,483 - INFO - Database connection initialized.
+2023-08-24 21:58:54,485 - INFO - Item apple with ID 5 and price 0.99 added to the database.
+2023-08-24 21:58:54,488 - INFO - Database connection initialized.
+2023-08-24 21:58:54,489 - INFO - Database connection initialized.
+2023-08-24 21:58:54,490 - INFO - Database connection initialized.
+2023-08-24 21:58:54,493 - INFO - Database connection initialized.
+2023-08-24 21:58:54,494 - INFO - Item apple removed from the database.
+2023-08-24 21:58:54,496 - INFO - Database connection initialized.
+2023-08-24 21:58:54,498 - INFO - Database connection initialized.
+2023-08-24 21:59:09,648 - INFO - Database connection initialized.
+2023-08-24 21:59:09,648 - INFO - Shopping cart initialized.
+2023-08-24 21:59:09,649 - INFO - Item apple with ID 5 and price 0.99 added to the database.
+2023-08-24 21:59:09,650 - INFO - Item apple with ID 5 and price 0.99 $ added to the cart.
+2023-08-24 21:59:09,650 - INFO - Database connection initialized.
+2023-08-24 21:59:09,651 - INFO - Shopping cart initialized.
+2023-08-24 21:59:09,652 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 21:59:09,652 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 21:59:09,654 - INFO - Item banana with ID 7 and price 0.79 added to the database.
+2023-08-24 21:59:09,654 - INFO - Item banana with ID 7 and price 0.79 $ added to the cart.
+2023-08-24 21:59:09,655 - INFO - Database connection initialized.
+2023-08-24 21:59:09,656 - INFO - Shopping cart initialized.
+2023-08-24 21:59:09,658 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 21:59:09,658 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 21:59:09,660 - INFO - Item banana with ID 9 and price 0.79 added to the database.
+2023-08-24 21:59:09,660 - INFO - Item banana with ID 9 and price 0.79 $ added to the cart.
+2023-08-24 21:59:09,661 - INFO - Database connection initialized.
+2023-08-24 21:59:09,661 - INFO - Shopping cart initialized.
+2023-08-24 21:59:09,662 - INFO - Database connection initialized.
+2023-08-24 21:59:09,662 - INFO - Shopping cart initialized.
+2023-08-24 21:59:09,663 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 21:59:09,664 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 21:59:09,664 - INFO - Item apple removed from the cart.
+2023-08-24 21:59:09,664 - INFO - Item apple removed from the database.
+2023-08-24 21:59:09,666 - INFO - Database connection initialized.
+2023-08-24 21:59:09,669 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 21:59:09,671 - INFO - Database connection initialized.
+2023-08-24 21:59:09,672 - INFO - Database connection initialized.
+2023-08-24 21:59:09,673 - INFO - Database connection initialized.
+2023-08-24 21:59:09,675 - INFO - Database connection initialized.
+2023-08-24 21:59:09,676 - INFO - Item apple removed from the database.
+2023-08-24 21:59:09,679 - INFO - Database connection initialized.
+2023-08-24 21:59:09,680 - INFO - Database connection initialized.
+2023-08-24 21:59:09,685 - INFO - Database connection initialized.
+2023-08-24 21:59:09,687 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 21:59:09,689 - INFO - Database connection initialized.
+2023-08-24 21:59:09,691 - INFO - Database connection initialized.
+2023-08-24 21:59:09,692 - INFO - Database connection initialized.
+2023-08-24 21:59:09,695 - INFO - Database connection initialized.
+2023-08-24 21:59:09,695 - INFO - Item apple removed from the database.
+2023-08-24 21:59:09,698 - INFO - Database connection initialized.
+2023-08-24 21:59:09,699 - INFO - Database connection initialized.
+2023-08-24 22:20:26,300 - INFO - Database connection initialized.
+2023-08-24 22:20:26,300 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,301 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 22:20:26,301 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 22:20:26,303 - INFO - Database connection initialized.
+2023-08-24 22:20:26,303 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,305 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 22:20:26,305 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 22:20:26,307 - INFO - Item banana with ID 3 and price 0.79 added to the database.
+2023-08-24 22:20:26,307 - INFO - Item banana with ID 3 and price 0.79 $ added to the cart.
+2023-08-24 22:20:26,308 - INFO - Database connection initialized.
+2023-08-24 22:20:26,308 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,310 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 22:20:26,310 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 22:20:26,312 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 22:20:26,312 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 22:20:26,312 - INFO - Database connection initialized.
+2023-08-24 22:20:26,312 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,313 - INFO - Database connection initialized.
+2023-08-24 22:20:26,313 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,315 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:20:26,315 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:20:26,315 - INFO - Item apple removed from the cart.
+2023-08-24 22:20:26,315 - INFO - Item apple removed from the database.
+2023-08-24 22:20:26,318 - INFO - Database connection initialized.
+2023-08-24 22:20:26,318 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,332 - INFO - Database connection initialized.
+2023-08-24 22:20:26,332 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,333 - INFO - Database connection initialized.
+2023-08-24 22:20:26,333 - INFO - Shopping cart initialized.
+2023-08-24 22:20:26,335 - INFO - Database connection initialized.
+2023-08-24 22:20:26,337 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:20:26,339 - INFO - Database connection initialized.
+2023-08-24 22:20:26,340 - INFO - Database connection initialized.
+2023-08-24 22:20:26,341 - INFO - Database connection initialized.
+2023-08-24 22:20:26,345 - INFO - Database connection initialized.
+2023-08-24 22:20:26,346 - INFO - Item apple removed from the database.
+2023-08-24 22:20:26,349 - INFO - Database connection initialized.
+2023-08-24 22:20:26,350 - INFO - Database connection initialized.
+2023-08-24 22:20:34,391 - INFO - Database connection initialized.
+2023-08-24 22:20:34,391 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,393 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 22:20:34,393 - INFO - Item apple with ID 3 and price 0.99 $ added to the cart.
+2023-08-24 22:20:34,394 - INFO - Database connection initialized.
+2023-08-24 22:20:34,394 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,396 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 22:20:34,396 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 22:20:34,398 - INFO - Item banana with ID 5 and price 0.79 added to the database.
+2023-08-24 22:20:34,398 - INFO - Item banana with ID 5 and price 0.79 $ added to the cart.
+2023-08-24 22:20:34,399 - INFO - Database connection initialized.
+2023-08-24 22:20:34,400 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,402 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:20:34,402 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:20:34,404 - INFO - Item banana with ID 7 and price 0.79 added to the database.
+2023-08-24 22:20:34,404 - INFO - Item banana with ID 7 and price 0.79 $ added to the cart.
+2023-08-24 22:20:34,405 - INFO - Database connection initialized.
+2023-08-24 22:20:34,405 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,406 - INFO - Database connection initialized.
+2023-08-24 22:20:34,406 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,408 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:20:34,408 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 22:20:34,408 - INFO - Item apple removed from the cart.
+2023-08-24 22:20:34,409 - INFO - Item apple removed from the database.
+2023-08-24 22:20:34,412 - INFO - Database connection initialized.
+2023-08-24 22:20:34,412 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,416 - INFO - Database connection initialized.
+2023-08-24 22:20:34,416 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,418 - INFO - Database connection initialized.
+2023-08-24 22:20:34,418 - INFO - Shopping cart initialized.
+2023-08-24 22:20:34,420 - INFO - Database connection initialized.
+2023-08-24 22:20:34,423 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:20:34,425 - INFO - Database connection initialized.
+2023-08-24 22:20:34,426 - INFO - Database connection initialized.
+2023-08-24 22:20:34,427 - INFO - Database connection initialized.
+2023-08-24 22:20:34,432 - INFO - Database connection initialized.
+2023-08-24 22:20:34,432 - INFO - Item apple removed from the database.
+2023-08-24 22:20:34,435 - INFO - Database connection initialized.
+2023-08-24 22:20:34,436 - INFO - Database connection initialized.
+2023-08-24 22:20:57,139 - INFO - Database connection initialized.
+2023-08-24 22:20:57,139 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,141 - INFO - Item apple with ID 5 and price 0.99 added to the database.
+2023-08-24 22:20:57,141 - INFO - Item apple with ID 5 and price 0.99 $ added to the cart.
+2023-08-24 22:20:57,141 - INFO - Database connection initialized.
+2023-08-24 22:20:57,141 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,144 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:20:57,144 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:20:57,146 - INFO - Item banana with ID 7 and price 0.79 added to the database.
+2023-08-24 22:20:57,146 - INFO - Item banana with ID 7 and price 0.79 $ added to the cart.
+2023-08-24 22:20:57,147 - INFO - Database connection initialized.
+2023-08-24 22:20:57,147 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,149 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:20:57,149 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 22:20:57,151 - INFO - Item banana with ID 9 and price 0.79 added to the database.
+2023-08-24 22:20:57,151 - INFO - Item banana with ID 9 and price 0.79 $ added to the cart.
+2023-08-24 22:20:57,152 - INFO - Database connection initialized.
+2023-08-24 22:20:57,152 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,152 - INFO - Database connection initialized.
+2023-08-24 22:20:57,152 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,155 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 22:20:57,155 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 22:20:57,155 - INFO - Item apple removed from the cart.
+2023-08-24 22:20:57,155 - INFO - Item apple removed from the database.
+2023-08-24 22:20:57,158 - INFO - Database connection initialized.
+2023-08-24 22:20:57,158 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,160 - INFO - Database connection initialized.
+2023-08-24 22:20:57,160 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,162 - INFO - Database connection initialized.
+2023-08-24 22:20:57,162 - INFO - Shopping cart initialized.
+2023-08-24 22:20:57,163 - INFO - Database connection initialized.
+2023-08-24 22:20:57,165 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 22:20:57,168 - INFO - Database connection initialized.
+2023-08-24 22:20:57,169 - INFO - Database connection initialized.
+2023-08-24 22:20:57,170 - INFO - Database connection initialized.
+2023-08-24 22:20:57,174 - INFO - Database connection initialized.
+2023-08-24 22:20:57,175 - INFO - Item apple removed from the database.
+2023-08-24 22:20:57,178 - INFO - Database connection initialized.
+2023-08-24 22:20:57,179 - INFO - Database connection initialized.
+2023-08-24 22:21:06,453 - INFO - Database connection initialized.
+2023-08-24 22:21:06,453 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,455 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 22:21:06,455 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 22:21:06,456 - INFO - Database connection initialized.
+2023-08-24 22:21:06,456 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,458 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:21:06,458 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 22:21:06,459 - INFO - Item banana with ID 9 and price 0.79 added to the database.
+2023-08-24 22:21:06,459 - INFO - Item banana with ID 9 and price 0.79 $ added to the cart.
+2023-08-24 22:21:06,460 - INFO - Database connection initialized.
+2023-08-24 22:21:06,461 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,463 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 22:21:06,463 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 22:21:06,464 - INFO - Item banana with ID 11 and price 0.79 added to the database.
+2023-08-24 22:21:06,464 - INFO - Item banana with ID 11 and price 0.79 $ added to the cart.
+2023-08-24 22:21:06,465 - INFO - Database connection initialized.
+2023-08-24 22:21:06,465 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,466 - INFO - Database connection initialized.
+2023-08-24 22:21:06,466 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,468 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 22:21:06,468 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 22:21:06,468 - INFO - Item apple removed from the cart.
+2023-08-24 22:21:06,468 - INFO - Item apple removed from the database.
+2023-08-24 22:21:06,471 - INFO - Database connection initialized.
+2023-08-24 22:21:06,472 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,474 - INFO - Database connection initialized.
+2023-08-24 22:21:06,474 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,476 - INFO - Database connection initialized.
+2023-08-24 22:21:06,476 - INFO - Shopping cart initialized.
+2023-08-24 22:21:06,478 - INFO - Database connection initialized.
+2023-08-24 22:21:06,480 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 22:21:06,482 - INFO - Database connection initialized.
+2023-08-24 22:21:06,483 - INFO - Database connection initialized.
+2023-08-24 22:21:06,484 - INFO - Database connection initialized.
+2023-08-24 22:21:06,487 - INFO - Database connection initialized.
+2023-08-24 22:21:06,488 - INFO - Item apple removed from the database.
+2023-08-24 22:21:06,490 - INFO - Database connection initialized.
+2023-08-24 22:21:06,492 - INFO - Database connection initialized.
+2023-08-24 22:35:57,102 - INFO - Database connection initialized.
+2023-08-24 22:35:57,102 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,104 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 22:35:57,104 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 22:35:57,105 - INFO - Database connection initialized.
+2023-08-24 22:35:57,105 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,107 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 22:35:57,107 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 22:35:57,108 - INFO - Item banana with ID 3 and price 1.49 added to the database.
+2023-08-24 22:35:57,108 - INFO - Item banana with ID 3 and price 1.49 $ added to the cart.
+2023-08-24 22:35:57,109 - INFO - Database connection initialized.
+2023-08-24 22:35:57,109 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,111 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 22:35:57,111 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 22:35:57,113 - INFO - Item banana with ID 5 and price 1.49 added to the database.
+2023-08-24 22:35:57,113 - INFO - Item banana with ID 5 and price 1.49 $ added to the cart.
+2023-08-24 22:35:57,114 - INFO - Database connection initialized.
+2023-08-24 22:35:57,114 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,115 - INFO - Database connection initialized.
+2023-08-24 22:35:57,115 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,117 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:35:57,117 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:35:57,117 - INFO - Item apple removed from the cart.
+2023-08-24 22:35:57,117 - INFO - Item apple removed from the database.
+2023-08-24 22:35:57,120 - INFO - Database connection initialized.
+2023-08-24 22:35:57,120 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,123 - INFO - Database connection initialized.
+2023-08-24 22:35:57,123 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,125 - INFO - Database connection initialized.
+2023-08-24 22:35:57,125 - INFO - Shopping cart initialized.
+2023-08-24 22:35:57,127 - INFO - Database connection initialized.
+2023-08-24 22:35:57,128 - INFO - Database connection initialized.
+2023-08-24 22:35:57,129 - INFO - Database connection initialized.
+2023-08-24 22:36:36,413 - INFO - Database connection initialized.
+2023-08-24 22:36:36,413 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,415 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:36:36,415 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,416 - INFO - Database connection initialized.
+2023-08-24 22:36:36,416 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,418 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 22:36:36,418 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,420 - INFO - Item banana with ID 8 and price 1.49 added to the database.
+2023-08-24 22:36:36,420 - INFO - Item banana with ID 8 and price 1.49 $ added to the cart.
+2023-08-24 22:36:36,421 - INFO - Database connection initialized.
+2023-08-24 22:36:36,421 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,423 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 22:36:36,423 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,424 - INFO - Item banana with ID 10 and price 1.49 added to the database.
+2023-08-24 22:36:36,425 - INFO - Item banana with ID 10 and price 1.49 $ added to the cart.
+2023-08-24 22:36:36,425 - INFO - Database connection initialized.
+2023-08-24 22:36:36,426 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,426 - INFO - Database connection initialized.
+2023-08-24 22:36:36,426 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,428 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 22:36:36,428 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,428 - INFO - Item apple removed from the cart.
+2023-08-24 22:36:36,429 - INFO - Item apple removed from the database.
+2023-08-24 22:36:36,432 - INFO - Database connection initialized.
+2023-08-24 22:36:36,432 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,435 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 22:36:36,435 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,435 - INFO - Database connection initialized.
+2023-08-24 22:36:36,435 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,437 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 22:36:36,437 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,438 - INFO - Database connection initialized.
+2023-08-24 22:36:36,438 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,440 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 22:36:36,440 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,442 - INFO - Database connection initialized.
+2023-08-24 22:36:36,442 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,445 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 22:36:36,445 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,446 - INFO - Database connection initialized.
+2023-08-24 22:36:36,446 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,448 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 22:36:36,448 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,450 - INFO - Database connection initialized.
+2023-08-24 22:36:36,450 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,452 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 22:36:36,452 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,453 - INFO - Database connection initialized.
+2023-08-24 22:36:36,453 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,455 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 22:36:36,455 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,456 - INFO - Database connection initialized.
+2023-08-24 22:36:36,456 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,458 - INFO - Database connection initialized.
+2023-08-24 22:36:36,458 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,460 - INFO - Item apple with ID 18 and price 0.99 added to the database.
+2023-08-24 22:36:36,460 - INFO - Item apple with ID 18 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,461 - INFO - Database connection initialized.
+2023-08-24 22:36:36,461 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,463 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 22:36:36,463 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,464 - INFO - Database connection initialized.
+2023-08-24 22:36:36,464 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,467 - INFO - Item apple with ID 20 and price 0.99 added to the database.
+2023-08-24 22:36:36,467 - INFO - Item apple with ID 20 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,467 - INFO - Database connection initialized.
+2023-08-24 22:36:36,467 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,470 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 22:36:36,470 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,471 - INFO - Database connection initialized.
+2023-08-24 22:36:36,471 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,472 - INFO - Database connection initialized.
+2023-08-24 22:36:36,472 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,475 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 22:36:36,475 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,475 - INFO - Database connection initialized.
+2023-08-24 22:36:36,475 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,478 - INFO - Item apple with ID 23 and price 0.99 added to the database.
+2023-08-24 22:36:36,478 - INFO - Item apple with ID 23 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,480 - INFO - Database connection initialized.
+2023-08-24 22:36:36,480 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,482 - INFO - Item apple with ID 24 and price 0.99 added to the database.
+2023-08-24 22:36:36,482 - INFO - Item apple with ID 24 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,483 - INFO - Database connection initialized.
+2023-08-24 22:36:36,483 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,486 - INFO - Item apple with ID 25 and price 0.99 added to the database.
+2023-08-24 22:36:36,486 - INFO - Item apple with ID 25 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,487 - INFO - Database connection initialized.
+2023-08-24 22:36:36,487 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,489 - INFO - Item apple with ID 26 and price 0.99 added to the database.
+2023-08-24 22:36:36,489 - INFO - Item apple with ID 26 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,490 - INFO - Database connection initialized.
+2023-08-24 22:36:36,490 - INFO - Shopping cart initialized.
+2023-08-24 22:36:36,492 - INFO - Item apple with ID 27 and price 0.99 added to the database.
+2023-08-24 22:36:36,492 - INFO - Item apple with ID 27 and price 0.99 $ added to the cart.
+2023-08-24 22:36:36,493 - INFO - Database connection initialized.
+2023-08-24 22:36:36,494 - INFO - Database connection initialized.
+2023-08-24 22:36:36,497 - INFO - Database connection initialized.
+2023-08-24 22:38:20,409 - INFO - Database connection initialized.
+2023-08-24 22:38:20,409 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,411 - INFO - Item apple with ID 28 and price 0.99 added to the database.
+2023-08-24 22:38:20,411 - INFO - Item apple with ID 28 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,412 - INFO - Database connection initialized.
+2023-08-24 22:38:20,412 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,414 - INFO - Item apple with ID 29 and price 0.99 added to the database.
+2023-08-24 22:38:20,414 - INFO - Item apple with ID 29 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,416 - INFO - Item banana with ID 30 and price 1.49 added to the database.
+2023-08-24 22:38:20,416 - INFO - Item banana with ID 30 and price 1.49 $ added to the cart.
+2023-08-24 22:38:20,417 - INFO - Database connection initialized.
+2023-08-24 22:38:20,417 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,419 - INFO - Item apple with ID 31 and price 0.99 added to the database.
+2023-08-24 22:38:20,419 - INFO - Item apple with ID 31 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,421 - INFO - Item banana with ID 32 and price 1.49 added to the database.
+2023-08-24 22:38:20,421 - INFO - Item banana with ID 32 and price 1.49 $ added to the cart.
+2023-08-24 22:38:20,422 - INFO - Database connection initialized.
+2023-08-24 22:38:20,422 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,422 - INFO - Database connection initialized.
+2023-08-24 22:38:20,423 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,424 - INFO - Item apple with ID 33 and price 0.99 added to the database.
+2023-08-24 22:38:20,424 - INFO - Item apple with ID 33 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,424 - INFO - Item apple removed from the cart.
+2023-08-24 22:38:20,425 - INFO - Item apple removed from the database.
+2023-08-24 22:38:20,428 - INFO - Database connection initialized.
+2023-08-24 22:38:20,428 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,431 - INFO - Item apple with ID 33 and price 0.99 added to the database.
+2023-08-24 22:38:20,431 - INFO - Item apple with ID 33 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,432 - INFO - Database connection initialized.
+2023-08-24 22:38:20,432 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,434 - INFO - Item apple with ID 34 and price 0.99 added to the database.
+2023-08-24 22:38:20,434 - INFO - Item apple with ID 34 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,435 - INFO - Database connection initialized.
+2023-08-24 22:38:20,435 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,438 - INFO - Item apple with ID 35 and price 0.99 added to the database.
+2023-08-24 22:38:20,438 - INFO - Item apple with ID 35 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,440 - INFO - Database connection initialized.
+2023-08-24 22:38:20,440 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,443 - INFO - Item apple with ID 36 and price 0.99 added to the database.
+2023-08-24 22:38:20,443 - INFO - Item apple with ID 36 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,443 - INFO - Database connection initialized.
+2023-08-24 22:38:20,443 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,446 - INFO - Item apple with ID 37 and price 0.99 added to the database.
+2023-08-24 22:38:20,446 - INFO - Item apple with ID 37 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,446 - INFO - Database connection initialized.
+2023-08-24 22:38:20,446 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,449 - INFO - Item apple with ID 38 and price 0.99 added to the database.
+2023-08-24 22:38:20,449 - INFO - Item apple with ID 38 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,450 - INFO - Database connection initialized.
+2023-08-24 22:38:20,450 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,453 - INFO - Item apple with ID 39 and price 0.99 added to the database.
+2023-08-24 22:38:20,453 - INFO - Item apple with ID 39 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,454 - INFO - Database connection initialized.
+2023-08-24 22:38:20,454 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,455 - INFO - Database connection initialized.
+2023-08-24 22:38:20,455 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,459 - INFO - Item apple with ID 40 and price 0.99 added to the database.
+2023-08-24 22:38:20,459 - INFO - Item apple with ID 40 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,459 - INFO - Database connection initialized.
+2023-08-24 22:38:20,460 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,462 - INFO - Item apple with ID 41 and price 0.99 added to the database.
+2023-08-24 22:38:20,462 - INFO - Item apple with ID 41 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,463 - INFO - Database connection initialized.
+2023-08-24 22:38:20,463 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,465 - INFO - Item apple with ID 42 and price 0.99 added to the database.
+2023-08-24 22:38:20,465 - INFO - Item apple with ID 42 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,466 - INFO - Database connection initialized.
+2023-08-24 22:38:20,466 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,468 - INFO - Item apple with ID 43 and price 0.99 added to the database.
+2023-08-24 22:38:20,468 - INFO - Item apple with ID 43 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,469 - INFO - Database connection initialized.
+2023-08-24 22:38:20,470 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,471 - INFO - Database connection initialized.
+2023-08-24 22:38:20,471 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,473 - INFO - Item apple with ID 44 and price 0.99 added to the database.
+2023-08-24 22:38:20,473 - INFO - Item apple with ID 44 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,474 - INFO - Database connection initialized.
+2023-08-24 22:38:20,474 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,476 - INFO - Item apple with ID 45 and price 0.99 added to the database.
+2023-08-24 22:38:20,476 - INFO - Item apple with ID 45 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,477 - INFO - Database connection initialized.
+2023-08-24 22:38:20,477 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,480 - INFO - Item apple with ID 46 and price 0.99 added to the database.
+2023-08-24 22:38:20,480 - INFO - Item apple with ID 46 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,480 - INFO - Database connection initialized.
+2023-08-24 22:38:20,480 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,483 - INFO - Item apple with ID 47 and price 0.99 added to the database.
+2023-08-24 22:38:20,483 - INFO - Item apple with ID 47 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,484 - INFO - Database connection initialized.
+2023-08-24 22:38:20,484 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,486 - INFO - Item apple with ID 48 and price 0.99 added to the database.
+2023-08-24 22:38:20,486 - INFO - Item apple with ID 48 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,486 - INFO - Database connection initialized.
+2023-08-24 22:38:20,486 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,488 - INFO - Item apple with ID 49 and price 0.99 added to the database.
+2023-08-24 22:38:20,488 - INFO - Item apple with ID 49 and price 0.99 $ added to the cart.
+2023-08-24 22:38:20,489 - INFO - Database connection initialized.
+2023-08-24 22:38:20,491 - INFO - Database connection initialized.
+2023-08-24 22:38:20,492 - INFO - Database connection initialized.
+2023-08-24 22:38:20,496 - INFO - Database connection initialized.
+2023-08-24 22:38:20,497 - INFO - Shopping cart initialized.
+2023-08-24 22:38:20,791 - INFO - Table refreshed with updated items.
+2023-08-24 22:39:06,362 - INFO - Database connection initialized.
+2023-08-24 22:39:06,362 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,364 - INFO - Item apple with ID 50 and price 0.99 added to the database.
+2023-08-24 22:39:06,364 - INFO - Item apple with ID 50 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,366 - INFO - Database connection initialized.
+2023-08-24 22:39:06,366 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,368 - INFO - Item apple with ID 51 and price 0.99 added to the database.
+2023-08-24 22:39:06,368 - INFO - Item apple with ID 51 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,370 - INFO - Item banana with ID 52 and price 1.49 added to the database.
+2023-08-24 22:39:06,370 - INFO - Item banana with ID 52 and price 1.49 $ added to the cart.
+2023-08-24 22:39:06,371 - INFO - Database connection initialized.
+2023-08-24 22:39:06,371 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,373 - INFO - Item apple with ID 53 and price 0.99 added to the database.
+2023-08-24 22:39:06,373 - INFO - Item apple with ID 53 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,375 - INFO - Item banana with ID 54 and price 1.49 added to the database.
+2023-08-24 22:39:06,375 - INFO - Item banana with ID 54 and price 1.49 $ added to the cart.
+2023-08-24 22:39:06,376 - INFO - Database connection initialized.
+2023-08-24 22:39:06,376 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,376 - INFO - Database connection initialized.
+2023-08-24 22:39:06,376 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,378 - INFO - Item apple with ID 55 and price 0.99 added to the database.
+2023-08-24 22:39:06,378 - INFO - Item apple with ID 55 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,378 - INFO - Item apple removed from the cart.
+2023-08-24 22:39:06,379 - INFO - Item apple removed from the database.
+2023-08-24 22:39:06,382 - INFO - Database connection initialized.
+2023-08-24 22:39:06,382 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,384 - INFO - Item apple with ID 55 and price 0.99 added to the database.
+2023-08-24 22:39:06,384 - INFO - Item apple with ID 55 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,385 - INFO - Database connection initialized.
+2023-08-24 22:39:06,386 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,389 - INFO - Item apple with ID 56 and price 0.99 added to the database.
+2023-08-24 22:39:06,389 - INFO - Item apple with ID 56 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,390 - INFO - Database connection initialized.
+2023-08-24 22:39:06,390 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,393 - INFO - Item apple with ID 57 and price 0.99 added to the database.
+2023-08-24 22:39:06,393 - INFO - Item apple with ID 57 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,395 - INFO - Database connection initialized.
+2023-08-24 22:39:06,395 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,397 - INFO - Item apple with ID 58 and price 0.99 added to the database.
+2023-08-24 22:39:06,397 - INFO - Item apple with ID 58 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,397 - INFO - Database connection initialized.
+2023-08-24 22:39:06,398 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,400 - INFO - Item apple with ID 59 and price 0.99 added to the database.
+2023-08-24 22:39:06,400 - INFO - Item apple with ID 59 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,401 - INFO - Database connection initialized.
+2023-08-24 22:39:06,401 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,404 - INFO - Item apple with ID 60 and price 0.99 added to the database.
+2023-08-24 22:39:06,404 - INFO - Item apple with ID 60 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,404 - INFO - Database connection initialized.
+2023-08-24 22:39:06,405 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,408 - INFO - Item apple with ID 61 and price 0.99 added to the database.
+2023-08-24 22:39:06,408 - INFO - Item apple with ID 61 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,409 - INFO - Database connection initialized.
+2023-08-24 22:39:06,409 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,410 - INFO - Database connection initialized.
+2023-08-24 22:39:06,410 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,413 - INFO - Item apple with ID 62 and price 0.99 added to the database.
+2023-08-24 22:39:06,413 - INFO - Item apple with ID 62 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,414 - INFO - Database connection initialized.
+2023-08-24 22:39:06,414 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,416 - INFO - Item apple with ID 63 and price 0.99 added to the database.
+2023-08-24 22:39:06,416 - INFO - Item apple with ID 63 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,418 - INFO - Database connection initialized.
+2023-08-24 22:39:06,418 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,421 - INFO - Item apple with ID 64 and price 0.99 added to the database.
+2023-08-24 22:39:06,421 - INFO - Item apple with ID 64 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,422 - INFO - Database connection initialized.
+2023-08-24 22:39:06,422 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,425 - INFO - Item apple with ID 65 and price 0.99 added to the database.
+2023-08-24 22:39:06,425 - INFO - Item apple with ID 65 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,426 - INFO - Database connection initialized.
+2023-08-24 22:39:06,426 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,427 - INFO - Database connection initialized.
+2023-08-24 22:39:06,427 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,430 - INFO - Item apple with ID 66 and price 0.99 added to the database.
+2023-08-24 22:39:06,430 - INFO - Item apple with ID 66 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,431 - INFO - Database connection initialized.
+2023-08-24 22:39:06,431 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,434 - INFO - Item apple with ID 67 and price 0.99 added to the database.
+2023-08-24 22:39:06,434 - INFO - Item apple with ID 67 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,435 - INFO - Database connection initialized.
+2023-08-24 22:39:06,435 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,438 - INFO - Item apple with ID 68 and price 0.99 added to the database.
+2023-08-24 22:39:06,439 - INFO - Item apple with ID 68 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,439 - INFO - Database connection initialized.
+2023-08-24 22:39:06,439 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,442 - INFO - Item apple with ID 69 and price 0.99 added to the database.
+2023-08-24 22:39:06,442 - INFO - Item apple with ID 69 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,443 - INFO - Database connection initialized.
+2023-08-24 22:39:06,443 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,445 - INFO - Item apple with ID 70 and price 0.99 added to the database.
+2023-08-24 22:39:06,445 - INFO - Item apple with ID 70 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,446 - INFO - Database connection initialized.
+2023-08-24 22:39:06,446 - INFO - Shopping cart initialized.
+2023-08-24 22:39:06,449 - INFO - Item apple with ID 71 and price 0.99 added to the database.
+2023-08-24 22:39:06,449 - INFO - Item apple with ID 71 and price 0.99 $ added to the cart.
+2023-08-24 22:39:06,450 - INFO - Database connection initialized.
+2023-08-24 22:39:06,452 - INFO - Database connection initialized.
+2023-08-24 22:39:06,453 - INFO - Database connection initialized.
+2023-08-24 22:51:26,337 - INFO - Database connection initialized.
+2023-08-24 22:51:26,337 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,339 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 22:51:26,339 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,340 - INFO - Database connection initialized.
+2023-08-24 22:51:26,340 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,341 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 22:51:26,342 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,343 - INFO - Item banana with ID 3 and price 1.49 added to the database.
+2023-08-24 22:51:26,343 - INFO - Item banana with ID 3 and price 1.49 $ added to the cart.
+2023-08-24 22:51:26,344 - INFO - Database connection initialized.
+2023-08-24 22:51:26,344 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,346 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 22:51:26,346 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,348 - INFO - Item banana with ID 5 and price 1.49 added to the database.
+2023-08-24 22:51:26,348 - INFO - Item banana with ID 5 and price 1.49 $ added to the cart.
+2023-08-24 22:51:26,349 - INFO - Database connection initialized.
+2023-08-24 22:51:26,349 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,350 - INFO - Database connection initialized.
+2023-08-24 22:51:26,350 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,351 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:51:26,351 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,351 - INFO - Item apple removed from the cart.
+2023-08-24 22:51:26,352 - INFO - Item apple removed from the database.
+2023-08-24 22:51:26,354 - INFO - Database connection initialized.
+2023-08-24 22:51:26,354 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,357 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:51:26,357 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,357 - INFO - Database connection initialized.
+2023-08-24 22:51:26,358 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,360 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 22:51:26,360 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,361 - INFO - Database connection initialized.
+2023-08-24 22:51:26,361 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,363 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:51:26,363 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,364 - INFO - Database connection initialized.
+2023-08-24 22:51:26,365 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,367 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 22:51:26,367 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,368 - INFO - Database connection initialized.
+2023-08-24 22:51:26,368 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,370 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 22:51:26,370 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,371 - INFO - Database connection initialized.
+2023-08-24 22:51:26,371 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,373 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 22:51:26,373 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,373 - INFO - Database connection initialized.
+2023-08-24 22:51:26,373 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,376 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 22:51:26,376 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,377 - INFO - Database connection initialized.
+2023-08-24 22:51:26,377 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,378 - INFO - Database connection initialized.
+2023-08-24 22:51:26,378 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,380 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 22:51:26,381 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,381 - INFO - Database connection initialized.
+2023-08-24 22:51:26,381 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,383 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 22:51:26,383 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,385 - INFO - Database connection initialized.
+2023-08-24 22:51:26,385 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,387 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 22:51:26,387 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,388 - INFO - Database connection initialized.
+2023-08-24 22:51:26,388 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,390 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 22:51:26,390 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,391 - INFO - Database connection initialized.
+2023-08-24 22:51:26,391 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,392 - INFO - Database connection initialized.
+2023-08-24 22:51:26,392 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,394 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 22:51:26,395 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,395 - INFO - Database connection initialized.
+2023-08-24 22:51:26,395 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,397 - INFO - Item apple with ID 18 and price 0.99 added to the database.
+2023-08-24 22:51:26,398 - INFO - Item apple with ID 18 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,398 - INFO - Database connection initialized.
+2023-08-24 22:51:26,399 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,401 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 22:51:26,401 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,401 - INFO - Database connection initialized.
+2023-08-24 22:51:26,402 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,404 - INFO - Item apple with ID 20 and price 0.99 added to the database.
+2023-08-24 22:51:26,404 - INFO - Item apple with ID 20 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,405 - INFO - Database connection initialized.
+2023-08-24 22:51:26,405 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,407 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 22:51:26,407 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,408 - INFO - Database connection initialized.
+2023-08-24 22:51:26,408 - INFO - Shopping cart initialized.
+2023-08-24 22:51:26,410 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 22:51:26,410 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 22:51:26,411 - INFO - Database connection initialized.
+2023-08-24 22:51:26,413 - INFO - Database connection initialized.
+2023-08-24 22:51:26,414 - INFO - Database connection initialized.
+2023-08-24 22:53:44,540 - INFO - Database connection initialized.
+2023-08-24 22:53:44,540 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,542 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 22:53:44,542 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,543 - INFO - Database connection initialized.
+2023-08-24 22:53:44,543 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,545 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 22:53:44,545 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,547 - INFO - Item banana with ID 3 and price 1.49 added to the database.
+2023-08-24 22:53:44,547 - INFO - Item banana with ID 3 and price 1.49 $ added to the cart.
+2023-08-24 22:53:44,548 - INFO - Database connection initialized.
+2023-08-24 22:53:44,548 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,551 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 22:53:44,551 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,552 - INFO - Item banana with ID 5 and price 1.49 added to the database.
+2023-08-24 22:53:44,553 - INFO - Item banana with ID 5 and price 1.49 $ added to the cart.
+2023-08-24 22:53:44,554 - INFO - Database connection initialized.
+2023-08-24 22:53:44,554 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,554 - INFO - Database connection initialized.
+2023-08-24 22:53:44,554 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,556 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:53:44,556 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,556 - INFO - Item apple removed from the cart.
+2023-08-24 22:53:44,556 - INFO - Item apple removed from the database.
+2023-08-24 22:53:44,560 - INFO - Database connection initialized.
+2023-08-24 22:53:44,560 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,562 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 22:53:44,562 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,564 - INFO - Database connection initialized.
+2023-08-24 22:53:44,564 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,566 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 22:53:44,566 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,567 - INFO - Database connection initialized.
+2023-08-24 22:53:44,567 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,569 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 22:53:44,569 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,572 - INFO - Database connection initialized.
+2023-08-24 22:53:44,572 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,574 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 22:53:44,574 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,575 - INFO - Database connection initialized.
+2023-08-24 22:53:44,575 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,579 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 22:53:44,579 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,580 - INFO - Database connection initialized.
+2023-08-24 22:53:44,580 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,583 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 22:53:44,583 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,584 - INFO - Database connection initialized.
+2023-08-24 22:53:44,584 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,586 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 22:53:44,586 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,587 - INFO - Database connection initialized.
+2023-08-24 22:53:44,587 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,589 - INFO - Database connection initialized.
+2023-08-24 22:53:44,589 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,591 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 22:53:44,591 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,592 - INFO - Database connection initialized.
+2023-08-24 22:53:44,592 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,595 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 22:53:44,595 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,597 - INFO - Database connection initialized.
+2023-08-24 22:53:44,597 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,599 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 22:53:44,601 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,601 - INFO - Database connection initialized.
+2023-08-24 22:53:44,602 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,604 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 22:53:44,604 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,605 - INFO - Database connection initialized.
+2023-08-24 22:53:44,605 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,607 - INFO - Database connection initialized.
+2023-08-24 22:53:44,607 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,610 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 22:53:44,610 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,611 - INFO - Database connection initialized.
+2023-08-24 22:53:44,611 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,613 - INFO - Item apple with ID 18 and price 0.99 added to the database.
+2023-08-24 22:53:44,613 - INFO - Item apple with ID 18 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,615 - INFO - Database connection initialized.
+2023-08-24 22:53:44,615 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,617 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 22:53:44,617 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,618 - INFO - Database connection initialized.
+2023-08-24 22:53:44,618 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,619 - INFO - Item apple with ID 20 and price 0.99 added to the database.
+2023-08-24 22:53:44,619 - INFO - Item apple with ID 20 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,621 - INFO - Database connection initialized.
+2023-08-24 22:53:44,622 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,624 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 22:53:44,624 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,625 - INFO - Database connection initialized.
+2023-08-24 22:53:44,625 - INFO - Shopping cart initialized.
+2023-08-24 22:53:44,628 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 22:53:44,628 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 22:53:44,629 - INFO - Database connection initialized.
+2023-08-24 22:53:44,631 - INFO - Database connection initialized.
+2023-08-24 22:53:44,632 - INFO - Database connection initialized.
+2023-08-24 22:59:08,177 - INFO - Database connection initialized.
+2023-08-24 22:59:08,177 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,179 - INFO - Item apple with ID 23 and price 0.99 added to the database.
+2023-08-24 22:59:08,180 - INFO - Item apple with ID 23 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,180 - INFO - Database connection initialized.
+2023-08-24 22:59:08,180 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,183 - INFO - Item apple with ID 24 and price 0.99 added to the database.
+2023-08-24 22:59:08,183 - INFO - Item apple with ID 24 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,185 - INFO - Item banana with ID 25 and price 1.49 added to the database.
+2023-08-24 22:59:08,185 - INFO - Item banana with ID 25 and price 1.49 $ added to the cart.
+2023-08-24 22:59:08,186 - INFO - Database connection initialized.
+2023-08-24 22:59:08,186 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,188 - INFO - Item apple with ID 26 and price 0.99 added to the database.
+2023-08-24 22:59:08,188 - INFO - Item apple with ID 26 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,190 - INFO - Item banana with ID 27 and price 1.49 added to the database.
+2023-08-24 22:59:08,190 - INFO - Item banana with ID 27 and price 1.49 $ added to the cart.
+2023-08-24 22:59:08,191 - INFO - Database connection initialized.
+2023-08-24 22:59:08,191 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,191 - INFO - Database connection initialized.
+2023-08-24 22:59:08,192 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,193 - INFO - Item apple with ID 28 and price 0.99 added to the database.
+2023-08-24 22:59:08,193 - INFO - Item apple with ID 28 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,193 - INFO - Item apple removed from the cart.
+2023-08-24 22:59:08,194 - INFO - Item apple removed from the database.
+2023-08-24 22:59:08,197 - INFO - Database connection initialized.
+2023-08-24 22:59:08,197 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,199 - INFO - Item apple with ID 28 and price 0.99 added to the database.
+2023-08-24 22:59:08,199 - INFO - Item apple with ID 28 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,200 - INFO - Database connection initialized.
+2023-08-24 22:59:08,200 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,203 - INFO - Item apple with ID 29 and price 0.99 added to the database.
+2023-08-24 22:59:08,203 - INFO - Item apple with ID 29 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,204 - INFO - Database connection initialized.
+2023-08-24 22:59:08,204 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,206 - INFO - Item apple with ID 30 and price 0.99 added to the database.
+2023-08-24 22:59:08,206 - INFO - Item apple with ID 30 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,208 - INFO - Database connection initialized.
+2023-08-24 22:59:08,208 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,210 - INFO - Item apple with ID 31 and price 0.99 added to the database.
+2023-08-24 22:59:08,210 - INFO - Item apple with ID 31 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,210 - INFO - Database connection initialized.
+2023-08-24 22:59:08,211 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,213 - INFO - Item apple with ID 32 and price 0.99 added to the database.
+2023-08-24 22:59:08,213 - INFO - Item apple with ID 32 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,215 - INFO - Database connection initialized.
+2023-08-24 22:59:08,215 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,217 - INFO - Item apple with ID 33 and price 0.99 added to the database.
+2023-08-24 22:59:08,217 - INFO - Item apple with ID 33 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,218 - INFO - Database connection initialized.
+2023-08-24 22:59:08,218 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,220 - INFO - Item apple with ID 34 and price 0.99 added to the database.
+2023-08-24 22:59:08,220 - INFO - Item apple with ID 34 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,221 - INFO - Database connection initialized.
+2023-08-24 22:59:08,221 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,221 - INFO - Database connection initialized.
+2023-08-24 22:59:08,222 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,224 - INFO - Item apple with ID 35 and price 0.99 added to the database.
+2023-08-24 22:59:08,224 - INFO - Item apple with ID 35 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,224 - INFO - Database connection initialized.
+2023-08-24 22:59:08,224 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,226 - INFO - Item apple with ID 36 and price 0.99 added to the database.
+2023-08-24 22:59:08,226 - INFO - Item apple with ID 36 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,227 - INFO - Database connection initialized.
+2023-08-24 22:59:08,228 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,231 - INFO - Item apple with ID 37 and price 0.99 added to the database.
+2023-08-24 22:59:08,231 - INFO - Item apple with ID 37 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,231 - INFO - Database connection initialized.
+2023-08-24 22:59:08,231 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,234 - INFO - Item apple with ID 38 and price 0.99 added to the database.
+2023-08-24 22:59:08,234 - INFO - Item apple with ID 38 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,235 - INFO - Database connection initialized.
+2023-08-24 22:59:08,235 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,236 - INFO - Database connection initialized.
+2023-08-24 22:59:08,236 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,238 - INFO - Item apple with ID 39 and price 0.99 added to the database.
+2023-08-24 22:59:08,238 - INFO - Item apple with ID 39 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,239 - INFO - Database connection initialized.
+2023-08-24 22:59:08,239 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,241 - INFO - Item apple with ID 40 and price 0.99 added to the database.
+2023-08-24 22:59:08,241 - INFO - Item apple with ID 40 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,242 - INFO - Database connection initialized.
+2023-08-24 22:59:08,242 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,245 - INFO - Item apple with ID 41 and price 0.99 added to the database.
+2023-08-24 22:59:08,245 - INFO - Item apple with ID 41 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,245 - INFO - Database connection initialized.
+2023-08-24 22:59:08,246 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,248 - INFO - Item apple with ID 42 and price 0.99 added to the database.
+2023-08-24 22:59:08,248 - INFO - Item apple with ID 42 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,249 - INFO - Database connection initialized.
+2023-08-24 22:59:08,249 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,251 - INFO - Item apple with ID 43 and price 0.99 added to the database.
+2023-08-24 22:59:08,251 - INFO - Item apple with ID 43 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,251 - INFO - Database connection initialized.
+2023-08-24 22:59:08,251 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,254 - INFO - Item apple with ID 44 and price 0.99 added to the database.
+2023-08-24 22:59:08,254 - INFO - Item apple with ID 44 and price 0.99 $ added to the cart.
+2023-08-24 22:59:08,255 - INFO - Database connection initialized.
+2023-08-24 22:59:08,256 - INFO - Database connection initialized.
+2023-08-24 22:59:08,258 - INFO - Database connection initialized.
+2023-08-24 22:59:08,274 - INFO - Database connection initialized.
+2023-08-24 22:59:08,274 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,583 - INFO - Table refreshed with updated items.
+2023-08-24 22:59:08,605 - INFO - Database connection initialized.
+2023-08-24 22:59:08,605 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,608 - INFO - Table refreshed with updated items.
+2023-08-24 22:59:08,639 - INFO - Database connection initialized.
+2023-08-24 22:59:08,640 - INFO - Shopping cart initialized.
+2023-08-24 22:59:08,642 - INFO - Table refreshed with updated items.
+2023-08-24 23:31:39,409 - INFO - Database connection initialized.
+2023-08-24 23:31:39,410 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,412 - INFO - Item apple with ID 45 and price 0.99 added to the database.
+2023-08-24 23:31:39,412 - INFO - Item apple with ID 45 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,413 - INFO - Database connection initialized.
+2023-08-24 23:31:39,413 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,414 - INFO - Item apple with ID 46 and price 0.99 added to the database.
+2023-08-24 23:31:39,415 - INFO - Item apple with ID 46 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,416 - INFO - Item banana with ID 47 and price 1.49 added to the database.
+2023-08-24 23:31:39,416 - INFO - Item banana with ID 47 and price 1.49 $ added to the cart.
+2023-08-24 23:31:39,417 - INFO - Database connection initialized.
+2023-08-24 23:31:39,417 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,419 - INFO - Item apple with ID 48 and price 0.99 added to the database.
+2023-08-24 23:31:39,419 - INFO - Item apple with ID 48 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,421 - INFO - Item banana with ID 49 and price 1.49 added to the database.
+2023-08-24 23:31:39,421 - INFO - Item banana with ID 49 and price 1.49 $ added to the cart.
+2023-08-24 23:31:39,422 - INFO - Database connection initialized.
+2023-08-24 23:31:39,422 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,422 - INFO - Database connection initialized.
+2023-08-24 23:31:39,422 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,424 - INFO - Item apple with ID 50 and price 0.99 added to the database.
+2023-08-24 23:31:39,424 - INFO - Item apple with ID 50 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,424 - INFO - Item apple removed from the cart.
+2023-08-24 23:31:39,424 - INFO - Item apple removed from the database.
+2023-08-24 23:31:39,427 - INFO - Database connection initialized.
+2023-08-24 23:31:39,427 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,430 - INFO - Item apple with ID 50 and price 0.99 added to the database.
+2023-08-24 23:31:39,430 - INFO - Item apple with ID 50 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,431 - INFO - Database connection initialized.
+2023-08-24 23:31:39,431 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,433 - INFO - Item apple with ID 51 and price 0.99 added to the database.
+2023-08-24 23:31:39,433 - INFO - Item apple with ID 51 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,434 - INFO - Database connection initialized.
+2023-08-24 23:31:39,434 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,436 - INFO - Item apple with ID 52 and price 0.99 added to the database.
+2023-08-24 23:31:39,436 - INFO - Item apple with ID 52 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,438 - INFO - Database connection initialized.
+2023-08-24 23:31:39,438 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,440 - INFO - Item apple with ID 53 and price 0.99 added to the database.
+2023-08-24 23:31:39,440 - INFO - Item apple with ID 53 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,441 - INFO - Database connection initialized.
+2023-08-24 23:31:39,441 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,443 - INFO - Item apple with ID 54 and price 0.99 added to the database.
+2023-08-24 23:31:39,443 - INFO - Item apple with ID 54 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,444 - INFO - Database connection initialized.
+2023-08-24 23:31:39,444 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,446 - INFO - Item apple with ID 55 and price 0.99 added to the database.
+2023-08-24 23:31:39,446 - INFO - Item apple with ID 55 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,448 - INFO - Database connection initialized.
+2023-08-24 23:31:39,448 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,450 - INFO - Item apple with ID 56 and price 0.99 added to the database.
+2023-08-24 23:31:39,450 - INFO - Item apple with ID 56 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,451 - INFO - Database connection initialized.
+2023-08-24 23:31:39,451 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,452 - INFO - Database connection initialized.
+2023-08-24 23:31:39,452 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,454 - INFO - Item apple with ID 57 and price 0.99 added to the database.
+2023-08-24 23:31:39,454 - INFO - Item apple with ID 57 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,455 - INFO - Database connection initialized.
+2023-08-24 23:31:39,455 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,457 - INFO - Item apple with ID 58 and price 0.99 added to the database.
+2023-08-24 23:31:39,457 - INFO - Item apple with ID 58 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,458 - INFO - Database connection initialized.
+2023-08-24 23:31:39,458 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,460 - INFO - Item apple with ID 59 and price 0.99 added to the database.
+2023-08-24 23:31:39,460 - INFO - Item apple with ID 59 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,461 - INFO - Database connection initialized.
+2023-08-24 23:31:39,461 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,463 - INFO - Item apple with ID 60 and price 0.99 added to the database.
+2023-08-24 23:31:39,463 - INFO - Item apple with ID 60 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,464 - INFO - Database connection initialized.
+2023-08-24 23:31:39,464 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,465 - INFO - Database connection initialized.
+2023-08-24 23:31:39,465 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,466 - INFO - Item apple with ID 61 and price 0.99 added to the database.
+2023-08-24 23:31:39,466 - INFO - Item apple with ID 61 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,468 - INFO - Database connection initialized.
+2023-08-24 23:31:39,468 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,470 - INFO - Item apple with ID 62 and price 0.99 added to the database.
+2023-08-24 23:31:39,470 - INFO - Item apple with ID 62 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,472 - INFO - Database connection initialized.
+2023-08-24 23:31:39,472 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,474 - INFO - Item apple with ID 63 and price 0.99 added to the database.
+2023-08-24 23:31:39,474 - INFO - Item apple with ID 63 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,475 - INFO - Database connection initialized.
+2023-08-24 23:31:39,475 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,477 - INFO - Item apple with ID 64 and price 0.99 added to the database.
+2023-08-24 23:31:39,477 - INFO - Item apple with ID 64 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,478 - INFO - Database connection initialized.
+2023-08-24 23:31:39,478 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,480 - INFO - Item apple with ID 65 and price 0.99 added to the database.
+2023-08-24 23:31:39,480 - INFO - Item apple with ID 65 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,480 - INFO - Database connection initialized.
+2023-08-24 23:31:39,481 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,483 - INFO - Item apple with ID 66 and price 0.99 added to the database.
+2023-08-24 23:31:39,483 - INFO - Item apple with ID 66 and price 0.99 $ added to the cart.
+2023-08-24 23:31:39,484 - INFO - Database connection initialized.
+2023-08-24 23:31:39,485 - INFO - Database connection initialized.
+2023-08-24 23:31:39,488 - INFO - Database connection initialized.
+2023-08-24 23:31:39,503 - INFO - Database connection initialized.
+2023-08-24 23:31:39,503 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,800 - INFO - Table refreshed with updated items.
+2023-08-24 23:31:39,824 - INFO - Database connection initialized.
+2023-08-24 23:31:39,824 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,828 - INFO - Table refreshed with updated items.
+2023-08-24 23:31:39,861 - INFO - Database connection initialized.
+2023-08-24 23:31:39,861 - INFO - Shopping cart initialized.
+2023-08-24 23:31:39,864 - INFO - Table refreshed with updated items.
+2023-08-24 23:34:49,982 - INFO - Database connection initialized.
+2023-08-24 23:34:49,983 - INFO - Shopping cart initialized.
+2023-08-24 23:34:49,984 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 23:34:49,984 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 23:34:49,985 - INFO - Database connection initialized.
+2023-08-24 23:34:49,986 - INFO - Shopping cart initialized.
+2023-08-24 23:34:49,987 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 23:34:49,987 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 23:34:49,989 - INFO - Item banana with ID 3 and price 1.49 added to the database.
+2023-08-24 23:34:49,989 - INFO - Item banana with ID 3 and price 1.49 $ added to the cart.
+2023-08-24 23:34:49,990 - INFO - Database connection initialized.
+2023-08-24 23:34:49,990 - INFO - Shopping cart initialized.
+2023-08-24 23:34:49,992 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 23:34:49,992 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 23:34:49,994 - INFO - Item banana with ID 5 and price 1.49 added to the database.
+2023-08-24 23:34:49,994 - INFO - Item banana with ID 5 and price 1.49 $ added to the cart.
+2023-08-24 23:34:49,995 - INFO - Database connection initialized.
+2023-08-24 23:34:49,995 - INFO - Shopping cart initialized.
+2023-08-24 23:34:49,995 - INFO - Database connection initialized.
+2023-08-24 23:34:49,996 - INFO - Shopping cart initialized.
+2023-08-24 23:34:49,997 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 23:34:49,998 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 23:34:49,998 - INFO - Item apple removed from the cart.
+2023-08-24 23:34:49,998 - INFO - Item apple removed from the database.
+2023-08-24 23:34:50,001 - INFO - Database connection initialized.
+2023-08-24 23:34:50,001 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,003 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 23:34:50,003 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,004 - INFO - Database connection initialized.
+2023-08-24 23:34:50,005 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,007 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 23:34:50,007 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,008 - INFO - Database connection initialized.
+2023-08-24 23:34:50,008 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,010 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 23:34:50,010 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,012 - INFO - Database connection initialized.
+2023-08-24 23:34:50,012 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,014 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 23:34:50,014 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,015 - INFO - Database connection initialized.
+2023-08-24 23:34:50,015 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,017 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 23:34:50,017 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,019 - INFO - Database connection initialized.
+2023-08-24 23:34:50,019 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,021 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 23:34:50,021 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,022 - INFO - Database connection initialized.
+2023-08-24 23:34:50,022 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,024 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 23:34:50,024 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,025 - INFO - Database connection initialized.
+2023-08-24 23:34:50,025 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,026 - INFO - Database connection initialized.
+2023-08-24 23:34:50,027 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,029 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 23:34:50,029 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,030 - INFO - Database connection initialized.
+2023-08-24 23:34:50,030 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,032 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 23:34:50,032 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,033 - INFO - Database connection initialized.
+2023-08-24 23:34:50,033 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,035 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 23:34:50,035 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,036 - INFO - Database connection initialized.
+2023-08-24 23:34:50,036 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,039 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 23:34:50,039 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,040 - INFO - Database connection initialized.
+2023-08-24 23:34:50,041 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,041 - INFO - Database connection initialized.
+2023-08-24 23:34:50,042 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,044 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 23:34:50,044 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,044 - INFO - Database connection initialized.
+2023-08-24 23:34:50,045 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,047 - INFO - Item apple with ID 18 and price 0.99 added to the database.
+2023-08-24 23:34:50,047 - INFO - Item apple with ID 18 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,048 - INFO - Database connection initialized.
+2023-08-24 23:34:50,048 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,050 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 23:34:50,050 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,051 - INFO - Database connection initialized.
+2023-08-24 23:34:50,051 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,053 - INFO - Item apple with ID 20 and price 0.99 added to the database.
+2023-08-24 23:34:50,053 - INFO - Item apple with ID 20 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,054 - INFO - Database connection initialized.
+2023-08-24 23:34:50,055 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,057 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 23:34:50,057 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,058 - INFO - Database connection initialized.
+2023-08-24 23:34:50,058 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,060 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 23:34:50,060 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 23:34:50,061 - INFO - Database connection initialized.
+2023-08-24 23:34:50,063 - INFO - Database connection initialized.
+2023-08-24 23:34:50,064 - INFO - Database connection initialized.
+2023-08-24 23:34:50,082 - INFO - Database connection initialized.
+2023-08-24 23:34:50,082 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,376 - INFO - Table refreshed with updated items.
+2023-08-24 23:34:50,400 - INFO - Database connection initialized.
+2023-08-24 23:34:50,400 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,403 - INFO - Table refreshed with updated items.
+2023-08-24 23:34:50,434 - INFO - Database connection initialized.
+2023-08-24 23:34:50,434 - INFO - Shopping cart initialized.
+2023-08-24 23:34:50,438 - INFO - Table refreshed with updated items.
+2023-08-24 23:46:43,976 - INFO - Database connection initialized.
+2023-08-24 23:46:43,977 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,978 - INFO - Database connection initialized.
+2023-08-24 23:46:43,978 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,979 - INFO - Database connection initialized.
+2023-08-24 23:46:43,979 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,979 - INFO - Database connection initialized.
+2023-08-24 23:46:43,979 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,980 - INFO - Database connection initialized.
+2023-08-24 23:46:43,980 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,981 - INFO - Database connection initialized.
+2023-08-24 23:46:43,981 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,984 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 23:46:43,984 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 23:46:43,985 - INFO - Database connection initialized.
+2023-08-24 23:46:43,985 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,988 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 23:46:43,988 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 23:46:43,988 - INFO - Database connection initialized.
+2023-08-24 23:46:43,989 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,991 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 23:46:43,991 - INFO - Item apple with ID 3 and price 0.99 $ added to the cart.
+2023-08-24 23:46:43,993 - INFO - Database connection initialized.
+2023-08-24 23:46:43,993 - INFO - Shopping cart initialized.
+2023-08-24 23:46:43,995 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 23:46:43,996 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 23:46:43,996 - INFO - Database connection initialized.
+2023-08-24 23:46:43,997 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,000 - INFO - Item apple with ID 5 and price 0.99 added to the database.
+2023-08-24 23:46:44,000 - INFO - Item apple with ID 5 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,001 - INFO - Database connection initialized.
+2023-08-24 23:46:44,001 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,003 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 23:46:44,003 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,004 - INFO - Database connection initialized.
+2023-08-24 23:46:44,004 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,006 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 23:46:44,006 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,007 - INFO - Database connection initialized.
+2023-08-24 23:46:44,008 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,009 - INFO - Database connection initialized.
+2023-08-24 23:46:44,009 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,011 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 23:46:44,011 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,012 - INFO - Database connection initialized.
+2023-08-24 23:46:44,012 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,015 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 23:46:44,015 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,016 - INFO - Database connection initialized.
+2023-08-24 23:46:44,016 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,019 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 23:46:44,019 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,019 - INFO - Database connection initialized.
+2023-08-24 23:46:44,019 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,022 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 23:46:44,022 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,024 - INFO - Database connection initialized.
+2023-08-24 23:46:44,024 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,025 - INFO - Database connection initialized.
+2023-08-24 23:46:44,025 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,027 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 23:46:44,028 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,028 - INFO - Database connection initialized.
+2023-08-24 23:46:44,028 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,031 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 23:46:44,032 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,033 - INFO - Database connection initialized.
+2023-08-24 23:46:44,033 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,035 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 23:46:44,035 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,036 - INFO - Database connection initialized.
+2023-08-24 23:46:44,036 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,038 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 23:46:44,038 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,039 - INFO - Database connection initialized.
+2023-08-24 23:46:44,040 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,042 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 23:46:44,042 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,042 - INFO - Database connection initialized.
+2023-08-24 23:46:44,043 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,045 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 23:46:44,045 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 23:46:44,047 - INFO - Database connection initialized.
+2023-08-24 23:46:44,049 - INFO - Database connection initialized.
+2023-08-24 23:46:44,050 - INFO - Database connection initialized.
+2023-08-24 23:46:44,067 - INFO - Database connection initialized.
+2023-08-24 23:46:44,067 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,371 - INFO - Table refreshed with updated items.
+2023-08-24 23:46:44,396 - INFO - Database connection initialized.
+2023-08-24 23:46:44,396 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,399 - INFO - Table refreshed with updated items.
+2023-08-24 23:46:44,431 - INFO - Database connection initialized.
+2023-08-24 23:46:44,431 - INFO - Shopping cart initialized.
+2023-08-24 23:46:44,434 - INFO - Table refreshed with updated items.
+2023-08-24 23:49:12,426 - INFO - Database connection initialized.
+2023-08-24 23:49:12,426 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,428 - INFO - Database connection initialized.
+2023-08-24 23:49:12,428 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,428 - INFO - Database connection initialized.
+2023-08-24 23:49:12,428 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,429 - INFO - Database connection initialized.
+2023-08-24 23:49:12,429 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,429 - INFO - Database connection initialized.
+2023-08-24 23:49:12,430 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,430 - INFO - Database connection initialized.
+2023-08-24 23:49:12,430 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,433 - INFO - Item apple with ID 1 and price 0.99 added to the database.
+2023-08-24 23:49:12,433 - INFO - Item apple with ID 1 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,434 - INFO - Database connection initialized.
+2023-08-24 23:49:12,434 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,437 - INFO - Item apple with ID 2 and price 0.99 added to the database.
+2023-08-24 23:49:12,437 - INFO - Item apple with ID 2 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,438 - INFO - Database connection initialized.
+2023-08-24 23:49:12,438 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,440 - INFO - Item apple with ID 3 and price 0.99 added to the database.
+2023-08-24 23:49:12,440 - INFO - Item apple with ID 3 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,442 - INFO - Database connection initialized.
+2023-08-24 23:49:12,442 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,445 - INFO - Item apple with ID 4 and price 0.99 added to the database.
+2023-08-24 23:49:12,445 - INFO - Item apple with ID 4 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,445 - INFO - Database connection initialized.
+2023-08-24 23:49:12,445 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,448 - INFO - Item apple with ID 5 and price 0.99 added to the database.
+2023-08-24 23:49:12,448 - INFO - Item apple with ID 5 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,449 - INFO - Database connection initialized.
+2023-08-24 23:49:12,449 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,451 - INFO - Item apple with ID 6 and price 0.99 added to the database.
+2023-08-24 23:49:12,451 - INFO - Item apple with ID 6 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,452 - INFO - Database connection initialized.
+2023-08-24 23:49:12,452 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,454 - INFO - Item apple with ID 7 and price 0.99 added to the database.
+2023-08-24 23:49:12,454 - INFO - Item apple with ID 7 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,455 - INFO - Database connection initialized.
+2023-08-24 23:49:12,455 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,456 - INFO - Database connection initialized.
+2023-08-24 23:49:12,456 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,458 - INFO - Item apple with ID 8 and price 0.99 added to the database.
+2023-08-24 23:49:12,458 - INFO - Item apple with ID 8 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,459 - INFO - Database connection initialized.
+2023-08-24 23:49:12,459 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,461 - INFO - Item apple with ID 9 and price 0.99 added to the database.
+2023-08-24 23:49:12,461 - INFO - Item apple with ID 9 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,462 - INFO - Database connection initialized.
+2023-08-24 23:49:12,462 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,465 - INFO - Item apple with ID 10 and price 0.99 added to the database.
+2023-08-24 23:49:12,465 - INFO - Item apple with ID 10 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,465 - INFO - Database connection initialized.
+2023-08-24 23:49:12,465 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,468 - INFO - Item apple with ID 11 and price 0.99 added to the database.
+2023-08-24 23:49:12,468 - INFO - Item apple with ID 11 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,469 - INFO - Database connection initialized.
+2023-08-24 23:49:12,469 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,470 - INFO - Database connection initialized.
+2023-08-24 23:49:12,470 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,472 - INFO - Item apple with ID 12 and price 0.99 added to the database.
+2023-08-24 23:49:12,472 - INFO - Item apple with ID 12 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,473 - INFO - Database connection initialized.
+2023-08-24 23:49:12,473 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,475 - INFO - Item apple with ID 13 and price 0.99 added to the database.
+2023-08-24 23:49:12,475 - INFO - Item apple with ID 13 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,476 - INFO - Database connection initialized.
+2023-08-24 23:49:12,476 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,478 - INFO - Item apple with ID 14 and price 0.99 added to the database.
+2023-08-24 23:49:12,478 - INFO - Item apple with ID 14 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,479 - INFO - Database connection initialized.
+2023-08-24 23:49:12,479 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,481 - INFO - Item apple with ID 15 and price 0.99 added to the database.
+2023-08-24 23:49:12,481 - INFO - Item apple with ID 15 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,482 - INFO - Database connection initialized.
+2023-08-24 23:49:12,482 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,484 - INFO - Item apple with ID 16 and price 0.99 added to the database.
+2023-08-24 23:49:12,484 - INFO - Item apple with ID 16 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,485 - INFO - Database connection initialized.
+2023-08-24 23:49:12,485 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,487 - INFO - Item apple with ID 17 and price 0.99 added to the database.
+2023-08-24 23:49:12,487 - INFO - Item apple with ID 17 and price 0.99 $ added to the cart.
+2023-08-24 23:49:12,488 - INFO - Database connection initialized.
+2023-08-24 23:49:12,490 - INFO - Database connection initialized.
+2023-08-24 23:49:12,491 - INFO - Database connection initialized.
+2023-08-24 23:49:12,507 - INFO - Database connection initialized.
+2023-08-24 23:49:12,507 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,796 - INFO - Table refreshed with updated items.
+2023-08-24 23:49:12,822 - INFO - Database connection initialized.
+2023-08-24 23:49:12,822 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,824 - INFO - Table refreshed with updated items.
+2023-08-24 23:49:12,860 - INFO - Database connection initialized.
+2023-08-24 23:49:12,860 - INFO - Shopping cart initialized.
+2023-08-24 23:49:12,863 - INFO - Table refreshed with updated items.
+2023-08-24 23:53:49,439 - INFO - Database connection initialized.
+2023-08-24 23:53:49,440 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,440 - INFO - Database connection initialized.
+2023-08-24 23:53:49,440 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,441 - INFO - Database connection initialized.
+2023-08-24 23:53:49,441 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,441 - INFO - Database connection initialized.
+2023-08-24 23:53:49,442 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,442 - INFO - Database connection initialized.
+2023-08-24 23:53:49,442 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,443 - INFO - Database connection initialized.
+2023-08-24 23:53:49,443 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,451 - INFO - Item apple with ID 18 and price 0.99 added to the database.
+2023-08-24 23:53:49,451 - INFO - Item apple with ID 18 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,452 - INFO - Database connection initialized.
+2023-08-24 23:53:49,452 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,454 - INFO - Item apple with ID 19 and price 0.99 added to the database.
+2023-08-24 23:53:49,454 - INFO - Item apple with ID 19 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,455 - INFO - Database connection initialized.
+2023-08-24 23:53:49,455 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,457 - INFO - Item apple with ID 20 and price 0.99 added to the database.
+2023-08-24 23:53:49,457 - INFO - Item apple with ID 20 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,459 - INFO - Database connection initialized.
+2023-08-24 23:53:49,459 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,461 - INFO - Item apple with ID 21 and price 0.99 added to the database.
+2023-08-24 23:53:49,461 - INFO - Item apple with ID 21 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,462 - INFO - Database connection initialized.
+2023-08-24 23:53:49,462 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,464 - INFO - Item apple with ID 22 and price 0.99 added to the database.
+2023-08-24 23:53:49,464 - INFO - Item apple with ID 22 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,465 - INFO - Database connection initialized.
+2023-08-24 23:53:49,465 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,467 - INFO - Item apple with ID 23 and price 0.99 added to the database.
+2023-08-24 23:53:49,468 - INFO - Item apple with ID 23 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,468 - INFO - Database connection initialized.
+2023-08-24 23:53:49,469 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,471 - INFO - Item apple with ID 24 and price 0.99 added to the database.
+2023-08-24 23:53:49,471 - INFO - Item apple with ID 24 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,472 - INFO - Database connection initialized.
+2023-08-24 23:53:49,472 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,473 - INFO - Database connection initialized.
+2023-08-24 23:53:49,473 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,475 - INFO - Item apple with ID 25 and price 0.99 added to the database.
+2023-08-24 23:53:49,475 - INFO - Item apple with ID 25 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,476 - INFO - Database connection initialized.
+2023-08-24 23:53:49,476 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,478 - INFO - Item apple with ID 26 and price 0.99 added to the database.
+2023-08-24 23:53:49,478 - INFO - Item apple with ID 26 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,479 - INFO - Database connection initialized.
+2023-08-24 23:53:49,479 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,482 - INFO - Item apple with ID 27 and price 0.99 added to the database.
+2023-08-24 23:53:49,482 - INFO - Item apple with ID 27 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,482 - INFO - Database connection initialized.
+2023-08-24 23:53:49,482 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,485 - INFO - Item apple with ID 28 and price 0.99 added to the database.
+2023-08-24 23:53:49,485 - INFO - Item apple with ID 28 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,486 - INFO - Database connection initialized.
+2023-08-24 23:53:49,486 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,487 - INFO - Database connection initialized.
+2023-08-24 23:53:49,487 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,489 - INFO - Item apple with ID 29 and price 0.99 added to the database.
+2023-08-24 23:53:49,489 - INFO - Item apple with ID 29 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,490 - INFO - Database connection initialized.
+2023-08-24 23:53:49,490 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,492 - INFO - Item apple with ID 30 and price 0.99 added to the database.
+2023-08-24 23:53:49,492 - INFO - Item apple with ID 30 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,493 - INFO - Database connection initialized.
+2023-08-24 23:53:49,493 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,496 - INFO - Item apple with ID 31 and price 0.99 added to the database.
+2023-08-24 23:53:49,496 - INFO - Item apple with ID 31 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,496 - INFO - Database connection initialized.
+2023-08-24 23:53:49,496 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,498 - INFO - Item apple with ID 32 and price 0.99 added to the database.
+2023-08-24 23:53:49,498 - INFO - Item apple with ID 32 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,500 - INFO - Database connection initialized.
+2023-08-24 23:53:49,500 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,503 - INFO - Item apple with ID 33 and price 0.99 added to the database.
+2023-08-24 23:53:49,503 - INFO - Item apple with ID 33 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,503 - INFO - Database connection initialized.
+2023-08-24 23:53:49,504 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,506 - INFO - Item apple with ID 34 and price 0.99 added to the database.
+2023-08-24 23:53:49,506 - INFO - Item apple with ID 34 and price 0.99 $ added to the cart.
+2023-08-24 23:53:49,507 - INFO - Database connection initialized.
+2023-08-24 23:53:49,508 - INFO - Database connection initialized.
+2023-08-24 23:53:49,510 - INFO - Database connection initialized.
+2023-08-24 23:53:49,514 - INFO - Database connection initialized.
+2023-08-24 23:53:49,514 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,813 - INFO - Table refreshed with updated items.
+2023-08-24 23:53:49,816 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-24 23:53:49,829 - INFO - Database connection initialized.
+2023-08-24 23:53:49,830 - INFO - Shopping cart initialized.
+2023-08-24 23:53:49,840 - INFO - Table refreshed with updated items.
+2023-08-24 23:55:22,470 - INFO - Database connection initialized.
+2023-08-24 23:55:22,470 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,471 - INFO - Database connection initialized.
+2023-08-24 23:55:22,471 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,472 - INFO - Database connection initialized.
+2023-08-24 23:55:22,472 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,473 - INFO - Database connection initialized.
+2023-08-24 23:55:22,473 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,473 - INFO - Database connection initialized.
+2023-08-24 23:55:22,473 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,474 - INFO - Database connection initialized.
+2023-08-24 23:55:22,474 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,477 - INFO - Item apple with ID 35 and price 0.99 added to the database.
+2023-08-24 23:55:22,477 - INFO - Item apple with ID 35 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,478 - INFO - Database connection initialized.
+2023-08-24 23:55:22,478 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,479 - INFO - Item apple with ID 36 and price 0.99 added to the database.
+2023-08-24 23:55:22,480 - INFO - Item apple with ID 36 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,480 - INFO - Database connection initialized.
+2023-08-24 23:55:22,480 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,483 - INFO - Item apple with ID 37 and price 0.99 added to the database.
+2023-08-24 23:55:22,483 - INFO - Item apple with ID 37 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,485 - INFO - Database connection initialized.
+2023-08-24 23:55:22,485 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,488 - INFO - Item apple with ID 38 and price 0.99 added to the database.
+2023-08-24 23:55:22,488 - INFO - Item apple with ID 38 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,489 - INFO - Database connection initialized.
+2023-08-24 23:55:22,489 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,492 - INFO - Item apple with ID 39 and price 0.99 added to the database.
+2023-08-24 23:55:22,492 - INFO - Item apple with ID 39 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,493 - INFO - Database connection initialized.
+2023-08-24 23:55:22,493 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,496 - INFO - Item apple with ID 40 and price 0.99 added to the database.
+2023-08-24 23:55:22,496 - INFO - Item apple with ID 40 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,497 - INFO - Database connection initialized.
+2023-08-24 23:55:22,497 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,499 - INFO - Item apple with ID 41 and price 0.99 added to the database.
+2023-08-24 23:55:22,499 - INFO - Item apple with ID 41 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,501 - INFO - Database connection initialized.
+2023-08-24 23:55:22,501 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,502 - INFO - Database connection initialized.
+2023-08-24 23:55:22,502 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,505 - INFO - Item apple with ID 42 and price 0.99 added to the database.
+2023-08-24 23:55:22,505 - INFO - Item apple with ID 42 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,505 - INFO - Database connection initialized.
+2023-08-24 23:55:22,506 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,508 - INFO - Item apple with ID 43 and price 0.99 added to the database.
+2023-08-24 23:55:22,508 - INFO - Item apple with ID 43 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,509 - INFO - Database connection initialized.
+2023-08-24 23:55:22,509 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,512 - INFO - Item apple with ID 44 and price 0.99 added to the database.
+2023-08-24 23:55:22,512 - INFO - Item apple with ID 44 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,512 - INFO - Database connection initialized.
+2023-08-24 23:55:22,513 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,515 - INFO - Item apple with ID 45 and price 0.99 added to the database.
+2023-08-24 23:55:22,515 - INFO - Item apple with ID 45 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,516 - INFO - Database connection initialized.
+2023-08-24 23:55:22,516 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,517 - INFO - Database connection initialized.
+2023-08-24 23:55:22,517 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,520 - INFO - Item apple with ID 46 and price 0.99 added to the database.
+2023-08-24 23:55:22,520 - INFO - Item apple with ID 46 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,521 - INFO - Database connection initialized.
+2023-08-24 23:55:22,521 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,524 - INFO - Item apple with ID 47 and price 0.99 added to the database.
+2023-08-24 23:55:22,524 - INFO - Item apple with ID 47 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,525 - INFO - Database connection initialized.
+2023-08-24 23:55:22,525 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,528 - INFO - Item apple with ID 48 and price 0.99 added to the database.
+2023-08-24 23:55:22,528 - INFO - Item apple with ID 48 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,528 - INFO - Database connection initialized.
+2023-08-24 23:55:22,528 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,531 - INFO - Item apple with ID 49 and price 0.99 added to the database.
+2023-08-24 23:55:22,531 - INFO - Item apple with ID 49 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,532 - INFO - Database connection initialized.
+2023-08-24 23:55:22,532 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,534 - INFO - Item apple with ID 50 and price 0.99 added to the database.
+2023-08-24 23:55:22,534 - INFO - Item apple with ID 50 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,535 - INFO - Database connection initialized.
+2023-08-24 23:55:22,535 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,539 - INFO - Item apple with ID 51 and price 0.99 added to the database.
+2023-08-24 23:55:22,539 - INFO - Item apple with ID 51 and price 0.99 $ added to the cart.
+2023-08-24 23:55:22,540 - INFO - Database connection initialized.
+2023-08-24 23:55:22,541 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,859 - INFO - Table refreshed with updated items.
+2023-08-24 23:55:22,862 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-24 23:55:22,876 - INFO - Database connection initialized.
+2023-08-24 23:55:22,876 - INFO - Shopping cart initialized.
+2023-08-24 23:55:22,887 - INFO - Table refreshed with updated items.
+2023-08-24 23:56:13,376 - INFO - Database connection initialized.
+2023-08-24 23:56:13,377 - INFO - Shopping cart initialized.
+2023-08-24 23:56:13,674 - INFO - Table refreshed with updated items.
+2023-08-24 23:56:13,677 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-24 23:56:13,693 - INFO - Database connection initialized.
+2023-08-24 23:56:45,127 - INFO - Database connection initialized.
+2023-08-24 23:57:10,594 - INFO - Database connection initialized.
+2023-08-24 23:58:47,444 - INFO - Database connection initialized.
+2023-08-24 23:58:47,446 - INFO - Database connection initialized.
+2023-08-24 23:58:47,452 - INFO - Database connection initialized.
+2023-08-24 23:58:47,452 - INFO - Shopping cart initialized.
+2023-08-24 23:58:47,744 - INFO - Table refreshed with updated items.
+2023-08-24 23:58:47,747 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-24 23:58:47,761 - INFO - Database connection initialized.
+2023-08-24 23:58:47,761 - INFO - Shopping cart initialized.
+2023-08-24 23:58:47,771 - INFO - Table refreshed with updated items.
+2023-08-24 23:58:59,488 - INFO - Database connection initialized.
+2023-08-24 23:58:59,490 - INFO - Database connection initialized.
+2023-08-24 23:58:59,496 - INFO - Database connection initialized.
+2023-08-24 23:58:59,496 - INFO - Shopping cart initialized.
+2023-08-24 23:58:59,797 - INFO - Table refreshed with updated items.
+2023-08-24 23:58:59,801 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-24 23:58:59,814 - INFO - Database connection initialized.
+2023-08-24 23:58:59,814 - INFO - Shopping cart initialized.
+2023-08-24 23:58:59,827 - INFO - Table refreshed with updated items.
+2023-08-25 00:01:25,544 - INFO - Database connection initialized.
+2023-08-25 00:01:25,550 - INFO - Database connection initialized.
+2023-08-25 00:01:25,553 - INFO - Database connection initialized.
+2023-08-25 00:01:25,556 - INFO - Database connection initialized.
+2023-08-25 00:01:25,558 - INFO - Database connection initialized.
+2023-08-25 00:01:25,562 - INFO - Database connection initialized.
+2023-08-25 00:01:25,566 - INFO - Database connection initialized.
+2023-08-25 00:01:25,566 - INFO - Shopping cart initialized.
+2023-08-25 00:01:25,868 - INFO - Table refreshed with updated items.
+2023-08-25 00:01:25,871 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:01:25,886 - INFO - Database connection initialized.
+2023-08-25 00:01:25,886 - INFO - Shopping cart initialized.
+2023-08-25 00:01:25,897 - INFO - Table refreshed with updated items.
+2023-08-25 00:01:34,371 - INFO - Database connection initialized.
+2023-08-25 00:01:34,377 - INFO - Database connection initialized.
+2023-08-25 00:01:34,379 - INFO - Database connection initialized.
+2023-08-25 00:01:34,382 - INFO - Database connection initialized.
+2023-08-25 00:01:34,384 - INFO - Database connection initialized.
+2023-08-25 00:01:34,388 - INFO - Database connection initialized.
+2023-08-25 00:01:34,392 - INFO - Database connection initialized.
+2023-08-25 00:01:34,393 - INFO - Shopping cart initialized.
+2023-08-25 00:01:34,693 - INFO - Table refreshed with updated items.
+2023-08-25 00:01:34,696 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:01:34,711 - INFO - Database connection initialized.
+2023-08-25 00:01:34,711 - INFO - Shopping cart initialized.
+2023-08-25 00:01:34,723 - INFO - Table refreshed with updated items.
+2023-08-25 00:01:50,990 - INFO - Database connection initialized.
+2023-08-25 00:01:50,996 - INFO - Database connection initialized.
+2023-08-25 00:01:50,999 - INFO - Database connection initialized.
+2023-08-25 00:01:51,001 - INFO - Database connection initialized.
+2023-08-25 00:01:51,003 - INFO - Database connection initialized.
+2023-08-25 00:01:51,008 - INFO - Database connection initialized.
+2023-08-25 00:02:09,936 - INFO - Database connection initialized.
+2023-08-25 00:02:09,942 - INFO - Database connection initialized.
+2023-08-25 00:02:09,945 - INFO - Database connection initialized.
+2023-08-25 00:02:09,947 - INFO - Database connection initialized.
+2023-08-25 00:02:09,949 - INFO - Database connection initialized.
+2023-08-25 00:02:09,954 - INFO - Database connection initialized.
+2023-08-25 00:04:17,716 - INFO - Database connection initialized.
+2023-08-25 00:04:17,722 - INFO - Database connection initialized.
+2023-08-25 00:04:17,724 - INFO - Database connection initialized.
+2023-08-25 00:04:17,726 - INFO - Database connection initialized.
+2023-08-25 00:04:17,728 - INFO - Database connection initialized.
+2023-08-25 00:04:17,733 - INFO - Database connection initialized.
+2023-08-25 00:04:34,015 - INFO - Database connection initialized.
+2023-08-25 00:04:34,021 - INFO - Database connection initialized.
+2023-08-25 00:04:34,023 - INFO - Database connection initialized.
+2023-08-25 00:04:34,024 - INFO - Database connection initialized.
+2023-08-25 00:04:34,027 - INFO - Database connection initialized.
+2023-08-25 00:04:34,031 - INFO - Database connection initialized.
+2023-08-25 00:06:07,603 - INFO - Database connection initialized.
+2023-08-25 00:06:07,611 - INFO - Database connection initialized.
+2023-08-25 00:06:07,613 - INFO - Database connection initialized.
+2023-08-25 00:06:07,615 - INFO - Database connection initialized.
+2023-08-25 00:06:07,615 - INFO - Database connection initialized.
+2023-08-25 00:06:07,617 - INFO - Database connection initialized.
+2023-08-25 00:06:07,621 - INFO - Database connection initialized.
+2023-08-25 00:06:17,335 - INFO - Database connection initialized.
+2023-08-25 00:06:17,341 - INFO - Database connection initialized.
+2023-08-25 00:06:17,343 - INFO - Database connection initialized.
+2023-08-25 00:06:17,345 - INFO - Database connection initialized.
+2023-08-25 00:06:17,345 - INFO - Database connection initialized.
+2023-08-25 00:06:17,347 - INFO - Database connection initialized.
+2023-08-25 00:06:17,351 - INFO - Database connection initialized.
+2023-08-25 00:07:38,170 - INFO - Database connection initialized.
+2023-08-25 00:07:38,175 - INFO - Database connection initialized.
+2023-08-25 00:07:38,176 - INFO - Database connection initialized.
+2023-08-25 00:07:38,178 - INFO - Database connection initialized.
+2023-08-25 00:07:38,179 - INFO - Database connection initialized.
+2023-08-25 00:07:38,181 - INFO - Database connection initialized.
+2023-08-25 00:07:38,185 - INFO - Database connection initialized.
+2023-08-25 00:07:38,196 - INFO - Database connection initialized.
+2023-08-25 00:07:38,196 - INFO - Shopping cart initialized.
+2023-08-25 00:07:38,488 - INFO - Table refreshed with updated items.
+2023-08-25 00:07:38,491 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:07:38,506 - INFO - Database connection initialized.
+2023-08-25 00:07:38,506 - INFO - Shopping cart initialized.
+2023-08-25 00:07:38,515 - INFO - Table refreshed with updated items.
+2023-08-25 00:12:20,107 - INFO - Database connection initialized.
+2023-08-25 00:12:20,109 - INFO - Item apple with ID <MagicMock name='mock.cursor().lastrowid' id='1707389868752'> and price 1.2 added to the database.
+2023-08-25 00:12:20,112 - INFO - Database connection initialized.
+2023-08-25 00:12:20,113 - INFO - Database connection initialized.
+2023-08-25 00:12:20,116 - INFO - Database connection initialized.
+2023-08-25 00:12:20,118 - INFO - Database connection initialized.
+2023-08-25 00:12:20,122 - INFO - Database connection initialized.
+2023-08-25 00:12:20,126 - INFO - Database connection initialized.
+2023-08-25 00:12:20,126 - INFO - Shopping cart initialized.
+2023-08-25 00:12:20,422 - INFO - Table refreshed with updated items.
+2023-08-25 00:12:20,425 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:12:20,439 - INFO - Database connection initialized.
+2023-08-25 00:12:20,439 - INFO - Shopping cart initialized.
+2023-08-25 00:12:20,445 - INFO - Table refreshed with updated items.
+2023-08-25 00:12:33,299 - INFO - Database connection initialized.
+2023-08-25 00:12:33,300 - INFO - Item apple with ID <MagicMock name='mock.cursor().lastrowid' id='2912046552336'> and price 1.2 added to the database.
+2023-08-25 00:12:33,303 - INFO - Database connection initialized.
+2023-08-25 00:12:33,305 - INFO - Database connection initialized.
+2023-08-25 00:12:33,307 - INFO - Database connection initialized.
+2023-08-25 00:12:33,309 - INFO - Database connection initialized.
+2023-08-25 00:12:33,313 - INFO - Database connection initialized.
+2023-08-25 00:12:33,318 - INFO - Database connection initialized.
+2023-08-25 00:12:33,318 - INFO - Shopping cart initialized.
+2023-08-25 00:12:33,609 - INFO - Table refreshed with updated items.
+2023-08-25 00:12:33,612 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:12:33,626 - INFO - Database connection initialized.
+2023-08-25 00:12:33,627 - INFO - Shopping cart initialized.
+2023-08-25 00:12:33,633 - INFO - Table refreshed with updated items.
+2023-08-25 00:15:49,209 - INFO - Database connection initialized.
+2023-08-25 00:15:49,210 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2375843010128'> and price 1.2 added to the database.
+2023-08-25 00:15:49,212 - INFO - Database connection initialized.
+2023-08-25 00:15:49,214 - INFO - Database connection initialized.
+2023-08-25 00:15:49,216 - INFO - Database connection initialized.
+2023-08-25 00:15:49,218 - INFO - Database connection initialized.
+2023-08-25 00:15:49,219 - INFO - Item Apple removed from the database.
+2023-08-25 00:15:49,221 - INFO - Database connection initialized.
+2023-08-25 00:16:05,356 - INFO - Database connection initialized.
+2023-08-25 00:16:05,357 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='3022284280144'> and price 1.2 added to the database.
+2023-08-25 00:16:05,360 - INFO - Database connection initialized.
+2023-08-25 00:16:05,362 - INFO - Database connection initialized.
+2023-08-25 00:16:05,364 - INFO - Database connection initialized.
+2023-08-25 00:16:05,367 - INFO - Database connection initialized.
+2023-08-25 00:16:05,367 - INFO - Item Apple removed from the database.
+2023-08-25 00:16:05,369 - INFO - Database connection initialized.
+2023-08-25 00:18:23,561 - INFO - Database connection initialized.
+2023-08-25 00:18:23,562 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2281809466768'> and price 1.2 added to the database.
+2023-08-25 00:18:23,564 - INFO - Database connection initialized.
+2023-08-25 00:18:23,566 - INFO - Database connection initialized.
+2023-08-25 00:18:23,568 - INFO - Database connection initialized.
+2023-08-25 00:18:23,571 - INFO - Database connection initialized.
+2023-08-25 00:18:23,571 - INFO - Item Apple removed from the database.
+2023-08-25 00:18:23,573 - INFO - Database connection initialized.
+2023-08-25 00:18:31,758 - INFO - Database connection initialized.
+2023-08-25 00:18:31,759 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2764035805328'> and price 1.2 added to the database.
+2023-08-25 00:18:31,761 - INFO - Database connection initialized.
+2023-08-25 00:18:31,763 - INFO - Database connection initialized.
+2023-08-25 00:18:31,765 - INFO - Database connection initialized.
+2023-08-25 00:18:31,768 - INFO - Database connection initialized.
+2023-08-25 00:18:31,768 - INFO - Item Apple removed from the database.
+2023-08-25 00:18:31,771 - INFO - Database connection initialized.
+2023-08-25 00:20:18,907 - INFO - Database connection initialized.
+2023-08-25 00:20:18,908 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2207534700112'> and price 1.2 added to the database.
+2023-08-25 00:20:18,910 - INFO - Database connection initialized.
+2023-08-25 00:20:18,913 - INFO - Database connection initialized.
+2023-08-25 00:20:18,914 - INFO - Database connection initialized.
+2023-08-25 00:20:18,917 - INFO - Database connection initialized.
+2023-08-25 00:20:18,918 - INFO - Item Apple removed from the database.
+2023-08-25 00:20:18,920 - INFO - Database connection initialized.
+2023-08-25 00:20:26,258 - INFO - Database connection initialized.
+2023-08-25 00:20:26,259 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2420970836112'> and price 1.2 added to the database.
+2023-08-25 00:20:26,261 - INFO - Database connection initialized.
+2023-08-25 00:20:26,263 - INFO - Database connection initialized.
+2023-08-25 00:20:26,265 - INFO - Database connection initialized.
+2023-08-25 00:20:26,268 - INFO - Database connection initialized.
+2023-08-25 00:20:26,268 - INFO - Item Apple removed from the database.
+2023-08-25 00:20:26,270 - INFO - Database connection initialized.
+2023-08-25 00:22:56,622 - INFO - Database connection initialized.
+2023-08-25 00:22:56,623 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2252677731024'> and price 1.2 added to the database.
+2023-08-25 00:22:56,625 - INFO - Database connection initialized.
+2023-08-25 00:22:56,627 - INFO - Database connection initialized.
+2023-08-25 00:22:56,629 - INFO - Database connection initialized.
+2023-08-25 00:22:56,629 - INFO - Item Apple removed from the database.
+2023-08-25 00:22:56,632 - INFO - Database connection initialized.
+2023-08-25 00:23:11,039 - INFO - Database connection initialized.
+2023-08-25 00:23:11,040 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1842804772816'> and price 1.2 added to the database.
+2023-08-25 00:23:11,042 - INFO - Database connection initialized.
+2023-08-25 00:23:11,045 - INFO - Database connection initialized.
+2023-08-25 00:23:11,047 - INFO - Database connection initialized.
+2023-08-25 00:23:11,047 - INFO - Item Apple removed from the database.
+2023-08-25 00:23:11,050 - INFO - Database connection initialized.
+2023-08-25 00:24:46,980 - INFO - Database connection initialized.
+2023-08-25 00:24:46,980 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2561331387280'> and price 1.2 added to the database.
+2023-08-25 00:24:46,982 - INFO - Database connection initialized.
+2023-08-25 00:24:46,985 - INFO - Database connection initialized.
+2023-08-25 00:24:46,987 - INFO - Database connection initialized.
+2023-08-25 00:24:46,987 - INFO - Item Apple removed from the database.
+2023-08-25 00:24:46,991 - INFO - Database connection initialized.
+2023-08-25 00:24:53,706 - INFO - Database connection initialized.
+2023-08-25 00:24:53,707 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2805333907344'> and price 1.2 added to the database.
+2023-08-25 00:24:53,710 - INFO - Database connection initialized.
+2023-08-25 00:24:53,712 - INFO - Database connection initialized.
+2023-08-25 00:24:53,714 - INFO - Database connection initialized.
+2023-08-25 00:24:53,715 - INFO - Item Apple removed from the database.
+2023-08-25 00:24:53,717 - INFO - Database connection initialized.
+2023-08-25 00:28:31,728 - INFO - Database connection initialized.
+2023-08-25 00:28:31,729 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2495770153680'> and price 1.2 added to the database.
+2023-08-25 00:28:31,731 - INFO - Database connection initialized.
+2023-08-25 00:28:31,733 - INFO - Database connection initialized.
+2023-08-25 00:28:31,735 - INFO - Database connection initialized.
+2023-08-25 00:28:31,735 - INFO - Item Apple removed from the database.
+2023-08-25 00:28:31,738 - INFO - Database connection initialized.
+2023-08-25 00:28:37,844 - INFO - Database connection initialized.
+2023-08-25 00:28:37,845 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1929533935504'> and price 1.2 added to the database.
+2023-08-25 00:28:37,847 - INFO - Database connection initialized.
+2023-08-25 00:28:37,850 - INFO - Database connection initialized.
+2023-08-25 00:28:37,851 - INFO - Database connection initialized.
+2023-08-25 00:28:37,852 - INFO - Item Apple removed from the database.
+2023-08-25 00:28:37,855 - INFO - Database connection initialized.
+2023-08-25 00:29:57,710 - INFO - Database connection initialized.
+2023-08-25 00:29:57,711 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2008396419792'> and price 1.2 added to the database.
+2023-08-25 00:29:57,713 - INFO - Database connection initialized.
+2023-08-25 00:29:57,716 - INFO - Database connection initialized.
+2023-08-25 00:29:57,717 - INFO - Database connection initialized.
+2023-08-25 00:29:57,718 - INFO - Item Apple removed from the database.
+2023-08-25 00:29:57,721 - INFO - Database connection initialized.
+2023-08-25 00:30:06,808 - INFO - Database connection initialized.
+2023-08-25 00:30:06,809 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1527497052048'> and price 1.2 added to the database.
+2023-08-25 00:30:06,811 - INFO - Database connection initialized.
+2023-08-25 00:30:06,813 - INFO - Database connection initialized.
+2023-08-25 00:30:06,815 - INFO - Database connection initialized.
+2023-08-25 00:30:06,816 - INFO - Item Apple removed from the database.
+2023-08-25 00:30:06,818 - INFO - Database connection initialized.
+2023-08-25 00:36:28,543 - INFO - Database connection initialized.
+2023-08-25 00:36:28,543 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2570295464720'> and price 1.2 added to the database.
+2023-08-25 00:36:28,545 - INFO - Database connection initialized.
+2023-08-25 00:36:28,548 - INFO - Database connection initialized.
+2023-08-25 00:36:28,550 - INFO - Database connection initialized.
+2023-08-25 00:36:28,551 - INFO - Item Apple removed from the database.
+2023-08-25 00:36:28,553 - INFO - Database connection initialized.
+2023-08-25 00:36:41,701 - INFO - Database connection initialized.
+2023-08-25 00:36:41,701 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='3154418751568'> and price 1.2 added to the database.
+2023-08-25 00:36:41,703 - INFO - Database connection initialized.
+2023-08-25 00:36:41,706 - INFO - Database connection initialized.
+2023-08-25 00:36:41,708 - INFO - Database connection initialized.
+2023-08-25 00:36:41,708 - INFO - Item Apple removed from the database.
+2023-08-25 00:36:41,710 - INFO - Database connection initialized.
+2023-08-25 00:36:41,712 - INFO - Database connection initialized.
+2023-08-25 00:36:41,712 - INFO - Shopping cart initialized.
+2023-08-25 00:36:42,028 - INFO - Table refreshed with updated items.
+2023-08-25 00:36:42,031 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:36:42,049 - INFO - Database connection initialized.
+2023-08-25 00:36:46,499 - INFO - Database connection initialized.
+2023-08-25 00:36:46,500 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2176400054288'> and price 1.2 added to the database.
+2023-08-25 00:36:46,502 - INFO - Database connection initialized.
+2023-08-25 00:36:46,504 - INFO - Database connection initialized.
+2023-08-25 00:36:46,507 - INFO - Database connection initialized.
+2023-08-25 00:36:46,507 - INFO - Item Apple removed from the database.
+2023-08-25 00:36:46,509 - INFO - Database connection initialized.
+2023-08-25 00:36:46,511 - INFO - Database connection initialized.
+2023-08-25 00:36:46,511 - INFO - Shopping cart initialized.
+2023-08-25 00:36:46,804 - INFO - Table refreshed with updated items.
+2023-08-25 00:36:46,808 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:36:46,824 - INFO - Database connection initialized.
+2023-08-25 00:40:31,292 - INFO - Database connection initialized.
+2023-08-25 00:40:31,293 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2499631012304'> and price 1.2 added to the database.
+2023-08-25 00:40:31,295 - INFO - Database connection initialized.
+2023-08-25 00:40:31,298 - INFO - Database connection initialized.
+2023-08-25 00:40:31,300 - INFO - Database connection initialized.
+2023-08-25 00:40:31,300 - INFO - Item Apple removed from the database.
+2023-08-25 00:40:31,302 - INFO - Database connection initialized.
+2023-08-25 00:40:31,304 - INFO - Database connection initialized.
+2023-08-25 00:40:31,304 - INFO - Shopping cart initialized.
+2023-08-25 00:40:31,620 - INFO - Table refreshed with updated items.
+2023-08-25 00:40:31,624 - ERROR - Exception occurred: could not convert string to float: 'invalid'
+2023-08-25 00:44:56,017 - INFO - Database connection initialized.
+2023-08-25 00:44:56,017 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2951654821520'> and price 1.2 added to the database.
+2023-08-25 00:44:56,019 - INFO - Database connection initialized.
+2023-08-25 00:44:56,022 - INFO - Database connection initialized.
+2023-08-25 00:44:56,023 - INFO - Database connection initialized.
+2023-08-25 00:44:56,024 - INFO - Item Apple removed from the database.
+2023-08-25 00:44:56,026 - INFO - Database connection initialized.
+2023-08-25 00:45:06,608 - INFO - Database connection initialized.
+2023-08-25 00:45:06,608 - INFO - Shopping cart initialized.
+2023-08-25 00:45:06,608 - INFO - Database connection initialized.
+2023-08-25 00:45:06,609 - INFO - Shopping cart initialized.
+2023-08-25 00:45:06,609 - INFO - Database connection initialized.
+2023-08-25 00:45:06,609 - INFO - Shopping cart initialized.
+2023-08-25 00:45:06,610 - INFO - Database connection initialized.
+2023-08-25 00:45:06,610 - INFO - Shopping cart initialized.
+2023-08-25 00:45:06,610 - INFO - Database connection initialized.
+2023-08-25 00:45:06,611 - INFO - Shopping cart initialized.
+2023-08-25 00:45:06,613 - INFO - Database connection initialized.
+2023-08-25 00:45:06,614 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2111580448336'> and price 1.2 added to the database.
+2023-08-25 00:45:06,615 - INFO - Database connection initialized.
+2023-08-25 00:45:06,618 - INFO - Database connection initialized.
+2023-08-25 00:45:06,620 - INFO - Database connection initialized.
+2023-08-25 00:45:06,620 - INFO - Item Apple removed from the database.
+2023-08-25 00:45:06,622 - INFO - Database connection initialized.
+2023-08-25 00:45:14,476 - INFO - Database connection initialized.
+2023-08-25 00:45:14,476 - INFO - Shopping cart initialized.
+2023-08-25 00:45:14,477 - INFO - Database connection initialized.
+2023-08-25 00:45:14,477 - INFO - Shopping cart initialized.
+2023-08-25 00:45:14,478 - INFO - Database connection initialized.
+2023-08-25 00:45:14,478 - INFO - Shopping cart initialized.
+2023-08-25 00:45:14,478 - INFO - Database connection initialized.
+2023-08-25 00:45:14,478 - INFO - Shopping cart initialized.
+2023-08-25 00:45:14,479 - INFO - Database connection initialized.
+2023-08-25 00:45:14,479 - INFO - Shopping cart initialized.
+2023-08-25 00:45:14,481 - INFO - Database connection initialized.
+2023-08-25 00:45:14,482 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2567718544784'> and price 1.2 added to the database.
+2023-08-25 00:45:14,484 - INFO - Database connection initialized.
+2023-08-25 00:45:14,485 - INFO - Database connection initialized.
+2023-08-25 00:45:14,488 - INFO - Database connection initialized.
+2023-08-25 00:45:14,488 - INFO - Item Apple removed from the database.
+2023-08-25 00:45:14,490 - INFO - Database connection initialized.
+2023-08-25 00:45:52,138 - INFO - Database connection initialized.
+2023-08-25 00:45:52,139 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2004629085200'> and price 1.2 added to the database.
+2023-08-25 00:45:52,141 - INFO - Database connection initialized.
+2023-08-25 00:45:52,144 - INFO - Database connection initialized.
+2023-08-25 00:45:52,145 - INFO - Database connection initialized.
+2023-08-25 00:45:52,146 - INFO - Item Apple removed from the database.
+2023-08-25 00:45:52,147 - INFO - Database connection initialized.
+2023-08-25 00:45:52,154 - INFO - Database connection initialized.
+2023-08-25 00:45:52,156 - INFO - Shopping cart initialized.
+2023-08-25 00:46:27,011 - INFO - Database connection initialized.
+2023-08-25 00:46:27,012 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2416891481808'> and price 1.2 added to the database.
+2023-08-25 00:46:27,014 - INFO - Database connection initialized.
+2023-08-25 00:46:27,017 - INFO - Database connection initialized.
+2023-08-25 00:46:27,019 - INFO - Database connection initialized.
+2023-08-25 00:46:27,019 - INFO - Item Apple removed from the database.
+2023-08-25 00:46:27,021 - INFO - Database connection initialized.
+2023-08-25 00:47:00,406 - INFO - Database connection initialized.
+2023-08-25 00:47:00,406 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2251622409744'> and price 1.2 added to the database.
+2023-08-25 00:47:00,409 - INFO - Database connection initialized.
+2023-08-25 00:47:00,411 - INFO - Database connection initialized.
+2023-08-25 00:47:00,413 - INFO - Database connection initialized.
+2023-08-25 00:47:00,414 - INFO - Item Apple removed from the database.
+2023-08-25 00:47:00,415 - INFO - Database connection initialized.
+2023-08-25 00:47:00,422 - INFO - Database connection initialized.
+2023-08-25 00:47:00,422 - INFO - Shopping cart initialized.
+2023-08-25 00:48:00,658 - INFO - Database connection initialized.
+2023-08-25 00:48:00,659 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1510550890000'> and price 1.2 added to the database.
+2023-08-25 00:48:00,661 - INFO - Database connection initialized.
+2023-08-25 00:48:00,664 - INFO - Database connection initialized.
+2023-08-25 00:48:00,666 - INFO - Database connection initialized.
+2023-08-25 00:48:00,666 - INFO - Item Apple removed from the database.
+2023-08-25 00:48:00,667 - INFO - Database connection initialized.
+2023-08-25 00:48:00,687 - INFO - Database connection initialized.
+2023-08-25 00:48:00,687 - INFO - Shopping cart initialized.
+2023-08-25 00:48:01,002 - INFO - Database connection initialized.
+2023-08-25 00:48:01,002 - INFO - Shopping cart initialized.
+2023-08-25 00:48:01,028 - INFO - Database connection initialized.
+2023-08-25 00:48:01,028 - INFO - Shopping cart initialized.
+2023-08-25 00:48:01,041 - INFO - Database connection initialized.
+2023-08-25 00:48:01,041 - INFO - Shopping cart initialized.
+2023-08-25 00:48:09,697 - INFO - Database connection initialized.
+2023-08-25 00:48:09,698 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1667972818832'> and price 1.2 added to the database.
+2023-08-25 00:48:09,700 - INFO - Database connection initialized.
+2023-08-25 00:48:09,703 - INFO - Database connection initialized.
+2023-08-25 00:48:09,705 - INFO - Database connection initialized.
+2023-08-25 00:48:09,706 - INFO - Item Apple removed from the database.
+2023-08-25 00:48:09,708 - INFO - Database connection initialized.
+2023-08-25 00:48:09,726 - INFO - Database connection initialized.
+2023-08-25 00:48:09,726 - INFO - Shopping cart initialized.
+2023-08-25 00:48:10,036 - INFO - Database connection initialized.
+2023-08-25 00:48:10,037 - INFO - Shopping cart initialized.
+2023-08-25 00:48:10,061 - INFO - Database connection initialized.
+2023-08-25 00:48:10,061 - INFO - Shopping cart initialized.
+2023-08-25 00:48:10,073 - INFO - Database connection initialized.
+2023-08-25 00:48:10,073 - INFO - Shopping cart initialized.
+2023-08-25 00:51:05,964 - INFO - Database connection initialized.
+2023-08-25 00:51:05,965 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2567795139344'> and price 1.2 added to the database.
+2023-08-25 00:51:05,967 - INFO - Database connection initialized.
+2023-08-25 00:51:05,970 - INFO - Database connection initialized.
+2023-08-25 00:51:05,971 - INFO - Database connection initialized.
+2023-08-25 00:51:05,972 - INFO - Item Apple removed from the database.
+2023-08-25 00:51:05,974 - INFO - Database connection initialized.
+2023-08-25 00:51:14,893 - INFO - Database connection initialized.
+2023-08-25 00:51:14,894 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2154859095504'> and price 1.2 added to the database.
+2023-08-25 00:51:14,896 - INFO - Database connection initialized.
+2023-08-25 00:51:14,898 - INFO - Database connection initialized.
+2023-08-25 00:51:14,900 - INFO - Database connection initialized.
+2023-08-25 00:51:14,900 - INFO - Item Apple removed from the database.
+2023-08-25 00:51:14,902 - INFO - Database connection initialized.
+2023-08-25 00:52:21,500 - INFO - Database connection initialized.
+2023-08-25 00:52:21,501 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1464635975056'> and price 1.2 added to the database.
+2023-08-25 00:52:21,503 - INFO - Database connection initialized.
+2023-08-25 00:52:21,505 - INFO - Database connection initialized.
+2023-08-25 00:52:21,507 - INFO - Database connection initialized.
+2023-08-25 00:52:21,507 - INFO - Item Apple removed from the database.
+2023-08-25 00:52:21,510 - INFO - Database connection initialized.
+2023-08-25 00:52:21,524 - INFO - Database connection initialized.
+2023-08-25 00:52:21,524 - INFO - Shopping cart initialized.
+2023-08-25 00:52:21,841 - INFO - Table refreshed with updated items.
+2023-08-25 00:52:21,853 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:52:21,873 - INFO - Database connection initialized.
+2023-08-25 00:52:21,893 - INFO - Database connection initialized.
+2023-08-25 00:52:21,901 - INFO - Database connection initialized.
+2023-08-25 00:52:28,858 - INFO - Database connection initialized.
+2023-08-25 00:52:28,859 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1861122483024'> and price 1.2 added to the database.
+2023-08-25 00:52:28,861 - INFO - Database connection initialized.
+2023-08-25 00:52:28,864 - INFO - Database connection initialized.
+2023-08-25 00:52:28,865 - INFO - Database connection initialized.
+2023-08-25 00:52:28,866 - INFO - Item Apple removed from the database.
+2023-08-25 00:52:28,867 - INFO - Database connection initialized.
+2023-08-25 00:52:28,882 - INFO - Database connection initialized.
+2023-08-25 00:52:28,882 - INFO - Shopping cart initialized.
+2023-08-25 00:52:29,179 - INFO - Table refreshed with updated items.
+2023-08-25 00:52:29,191 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:52:29,213 - INFO - Database connection initialized.
+2023-08-25 00:52:29,233 - INFO - Database connection initialized.
+2023-08-25 00:52:29,241 - INFO - Database connection initialized.
+2023-08-25 00:54:31,184 - INFO - Database connection initialized.
+2023-08-25 00:54:31,185 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1580859806288'> and price 1.2 added to the database.
+2023-08-25 00:54:31,186 - INFO - Database connection initialized.
+2023-08-25 00:54:31,189 - INFO - Database connection initialized.
+2023-08-25 00:54:31,190 - INFO - Database connection initialized.
+2023-08-25 00:54:31,191 - INFO - Item Apple removed from the database.
+2023-08-25 00:54:31,192 - INFO - Database connection initialized.
+2023-08-25 00:54:38,274 - INFO - Database connection initialized.
+2023-08-25 00:54:38,274 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2421655032976'> and price 1.2 added to the database.
+2023-08-25 00:54:38,276 - INFO - Database connection initialized.
+2023-08-25 00:54:38,279 - INFO - Database connection initialized.
+2023-08-25 00:54:38,280 - INFO - Database connection initialized.
+2023-08-25 00:54:38,281 - INFO - Item Apple removed from the database.
+2023-08-25 00:54:38,282 - INFO - Database connection initialized.
+2023-08-25 00:56:56,135 - INFO - Database connection initialized.
+2023-08-25 00:56:56,136 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1997523805264'> and price 1.2 added to the database.
+2023-08-25 00:56:56,137 - INFO - Database connection initialized.
+2023-08-25 00:56:56,141 - INFO - Database connection initialized.
+2023-08-25 00:56:56,143 - INFO - Database connection initialized.
+2023-08-25 00:56:56,143 - INFO - Item Apple removed from the database.
+2023-08-25 00:56:56,145 - INFO - Database connection initialized.
+2023-08-25 00:56:56,159 - INFO - Database connection initialized.
+2023-08-25 00:56:56,159 - INFO - Shopping cart initialized.
+2023-08-25 00:56:56,477 - INFO - Table refreshed with updated items.
+2023-08-25 00:56:56,490 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:56:56,833 - INFO - Database connection initialized.
+2023-08-25 00:56:56,842 - INFO - Database connection initialized.
+2023-08-25 00:57:06,002 - INFO - Database connection initialized.
+2023-08-25 00:57:06,003 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='1288637146192'> and price 1.2 added to the database.
+2023-08-25 00:57:06,004 - INFO - Database connection initialized.
+2023-08-25 00:57:06,007 - INFO - Database connection initialized.
+2023-08-25 00:57:06,009 - INFO - Database connection initialized.
+2023-08-25 00:57:06,009 - INFO - Item Apple removed from the database.
+2023-08-25 00:57:06,011 - INFO - Database connection initialized.
+2023-08-25 00:57:06,027 - INFO - Database connection initialized.
+2023-08-25 00:57:06,027 - INFO - Shopping cart initialized.
+2023-08-25 00:57:06,323 - INFO - Table refreshed with updated items.
+2023-08-25 00:57:06,337 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:57:06,673 - INFO - Database connection initialized.
+2023-08-25 00:57:06,681 - INFO - Database connection initialized.
+2023-08-25 00:58:48,524 - INFO - Database connection initialized.
+2023-08-25 00:58:48,524 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2643550495504'> and price 1.2 added to the database.
+2023-08-25 00:58:48,527 - INFO - Database connection initialized.
+2023-08-25 00:58:48,530 - INFO - Database connection initialized.
+2023-08-25 00:58:48,532 - INFO - Database connection initialized.
+2023-08-25 00:58:48,532 - INFO - Item Apple removed from the database.
+2023-08-25 00:58:48,534 - INFO - Database connection initialized.
+2023-08-25 00:58:48,548 - INFO - Database connection initialized.
+2023-08-25 00:58:48,548 - INFO - Shopping cart initialized.
+2023-08-25 00:58:48,843 - INFO - Table refreshed with updated items.
+2023-08-25 00:58:48,855 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:58:49,195 - INFO - Database connection initialized.
+2023-08-25 00:58:49,203 - INFO - Database connection initialized.
+2023-08-25 00:58:57,783 - INFO - Database connection initialized.
+2023-08-25 00:58:57,784 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2996885545808'> and price 1.2 added to the database.
+2023-08-25 00:58:57,785 - INFO - Database connection initialized.
+2023-08-25 00:58:57,788 - INFO - Database connection initialized.
+2023-08-25 00:58:57,789 - INFO - Database connection initialized.
+2023-08-25 00:58:57,790 - INFO - Item Apple removed from the database.
+2023-08-25 00:58:57,792 - INFO - Database connection initialized.
+2023-08-25 00:58:57,805 - INFO - Database connection initialized.
+2023-08-25 00:58:57,806 - INFO - Shopping cart initialized.
+2023-08-25 00:58:58,103 - INFO - Table refreshed with updated items.
+2023-08-25 00:58:58,114 - ERROR - Exception occurred: Invalid input types for item or price.
+2023-08-25 00:58:58,447 - INFO - Database connection initialized.
+2023-08-25 00:58:58,456 - INFO - Database connection initialized.
+2023-08-25 01:01:46,477 - INFO - Database connection initialized.
+2023-08-25 01:01:46,477 - INFO - Item apple with ID <MagicMock name='connect().cursor().lastrowid' id='2375907566928'> and price 1.2 added to the database.
+2023-08-25 01:01:46,479 - INFO - Database connection initialized.
+2023-08-25 01:01:46,482 - INFO - Database connection initialized.
+2023-08-25 01:01:46,484 - INFO - Database connection initialized.
+2023-08-25 01:01:46,485 - INFO - Item Apple removed from the database.
+2023-08-25 01:01:46,486 - INFO - Database connection initialized.
+2023-08-25 01:01:46,823 - ERROR - Exception occurred: Invalid input types for item or price.
